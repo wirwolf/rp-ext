@@ -1,6 +1,6 @@
 {
-  "id": "pocopico.r8169",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8169/rpext-index.json",
+  "id": "PeterSuh-Q3.r8169",
+  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/rpext-index.json",
   "info": {
     "name": "r8169",
     "description": "Adds RealTek RTL-8169 Gigabit Ethernet driver Support",
