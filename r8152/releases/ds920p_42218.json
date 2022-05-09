@@ -11,7 +11,7 @@
     {
       "name": "check-r8152.sh",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/src/check-r8152.sh",
-      "sha256": "b8b9689d85e9ec8910440059636d7e6a6c3120d57aaa62a1124f4639a621d5e5",
+      "sha256": "5779d83ed29dc65551ac263518710d0d95a1ca6aac41cc2a043b2739c65f9655",
       "packed": false
     }
   ],
