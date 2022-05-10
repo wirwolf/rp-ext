@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "r8152-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8152/releases/r8152-3.10.108.tgz",
-      "sha256": "bccde0949469f7c73af2319bf4bf621c02a0d20a56e76fb25e82f4374cf881f8",
+      "name": "r8152-4.4.180plus-broadwell.tgz",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/r8152-4.4.180plus-broadwell.tgz",
+      "sha256": "c750104002c69c98dccfde41f3aea6a029ee6bbcd9c10cf472567e9c64153bac",
       "packed": true
     },
     {
