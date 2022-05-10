@@ -3,8 +3,8 @@
 
   "files": [
     {
-      "name": "r8152-4.4.180plus-denverton.tgz",
-      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/r8152-4.4.180plus-denverton.tgz",
+      "name": "r8152-4.4.180plus-v1000.tgz",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/r8152-4.4.180plus-v1000.tgz",
       "sha256": "828b728c01a8e6244f866e1ddfc89459cbc5bc1a4eb90b70124f9619dae7de99",
       "packed": true
     },
