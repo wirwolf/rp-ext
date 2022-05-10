@@ -4,8 +4,8 @@
   "files": [
     {
       "name": "r8152-4.4.180plus-geminilake.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8152/releases/r8152-4.4.180plus-geminilake.tgz",
-      "sha256": "9789d7fc763ccd9e16f2081f0f9fe645c07a77ab2a6f84e01d11bc70a730868b",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/r8152-4.4.180plus-geminilake.tgz",
+      "sha256": "f233137e704f8816d7af3d7c4945e5ff5c2756fc655b723bcd09927dc0125b04",
       "packed": true
     },
     {
