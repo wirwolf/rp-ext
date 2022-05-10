@@ -4,7 +4,7 @@
   "files": [
     {
       "name": "r8152-4.4.180plus-bromolow.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8152/releases/r8152-4.4.180plus-bromolow.tgz",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/r8152-4.4.180plus-bromolow.tgz",
       "sha256": "4abfbd8c28dc03a13d0c31052b8574778523a9f36b7b51b82fcea2a5dbd6017f",
       "packed": true
     },
