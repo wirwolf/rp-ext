@@ -4,7 +4,7 @@
   "files": [
     {
       "name": "r8152-4.4.180plus-apollolake.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8152/releases/r8152-4.4.180plus-apollolake.tgz",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/r8152-4.4.180plus-apollolake.tgz",
       "sha256": "781e5c0609cd23b3274be25bf58af94257217304cd0f5f369519ab83ba503916",
       "packed": true
     },
