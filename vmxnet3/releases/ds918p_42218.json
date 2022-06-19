@@ -10,8 +10,8 @@
     },
     {
       "name": "check-vmxnet3.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/src/check-vmxnet3.sh",
-      "sha256": "ac30bf116182d716706938117d21fddbe011f636c7bbe38d9ba0ac07aebdc49d",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/src/check-vmxnet3.sh",
+      "sha256": "6b5ba71fd4cb93703ad9bdec681036329548741b59bdcf37d4c7b90a49a9e3e6",
       "packed": false
     }
   ],
