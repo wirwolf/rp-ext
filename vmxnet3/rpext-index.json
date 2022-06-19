@@ -1,6 +1,6 @@
 {
   "id": "pocopico.vmxnet3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/rpext-index.json",
   "info": {
     "name": "vmxnet3",
     "description": "Adds VMware vmxnet3 virtual NIC driver Support",
