@@ -10,7 +10,7 @@
     {
       "name": "check-vmxnet3.sh",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/src/check-vmxnet3.sh",
-      "sha256": "6b5ba71fd4cb93703ad9bdec681036329548741b59bdcf37d4c7b90a49a9e3e6",
+      "sha256": "e05ed3cffe43f5c0f395c174e65f9c59d84a85ce2606125cd65c8dfeb02b34cd",
       "packed": false
     }
   ],
