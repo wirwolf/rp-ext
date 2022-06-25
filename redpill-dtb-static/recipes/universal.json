@@ -37,6 +37,30 @@
       "packed": false
     },
     {
+      "name": "model_ds3615xs.dtb",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/model_ds3615xs.dtb",
+      "sha256": "e045eabbc6ca98fb324b20ef8e973d310ef939a8d87d76bfb87674437beabcd4",
+      "packed": false
+    },
+    {
+      "name": "model_ds3617xs.dtb",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/model_ds3617xs.dtb",
+      "sha256": "e045eabbc6ca98fb324b20ef8e973d310ef939a8d87d76bfb87674437beabcd4",
+      "packed": false
+    },
+    {
+      "name": "model_ds3622xsp.dtb",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/model_ds3622xsp.dtb",
+      "sha256": "e045eabbc6ca98fb324b20ef8e973d310ef939a8d87d76bfb87674437beabcd4",
+      "packed": false
+    },
+    {
+      "name": "model_dva3221.dtb",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/model_dva3221.dtb",
+      "sha256": "e045eabbc6ca98fb324b20ef8e973d310ef939a8d87d76bfb87674437beabcd4",
+      "packed": false
+    },
+    {
       "name": "dtc",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/dtc",
       "sha256": "14f7f87a5822050eab7c30a064912a6efe99f49bf6b896bbb38c2ba003803e78",
