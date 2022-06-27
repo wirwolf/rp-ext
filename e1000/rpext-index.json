@@ -1,6 +1,6 @@
 {
   "id": "pocopico.e1000",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/rpext-index.json",
   "info": {
     "name": "e1000",
     "description": "Adds Intel(R) PRO/1000 Network Driver Support",
@@ -20,7 +20,7 @@
     "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds3622xsp_42218.json",
     "ds3622xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds3622xsp_42218.json",
     "ds3622xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds3622xsp_42218.json",
-    "ds2422p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds2422p_42218.json",
+    "ds2422p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds2422p_42218.json",
     "ds1621p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds1621p_42218.json",
     "ds1621p_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds1621p_42218.json",
     "ds1621p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/releases/ds1621p_42218.json",
