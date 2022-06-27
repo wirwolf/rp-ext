@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "e1000e-4.4.180plus-denverton.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/releases/e1000e-4.4.180plus-denverton.tgz",
-      "sha256": "0d51636db45c2572de5e9c64af4304bed9682a7a5f112e3e1896570a4cf2c700",
+      "name": "e1000e-4.4.180plus-v1000.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/releases/e1000e-4.4.180plus-v1000.tgz",
+      "sha256": "76d1b393e2cc0be6e589710edc28edd7cf62dfb0bd5547443f1a304b5f0f2755",
       "packed": true
     },
     {
