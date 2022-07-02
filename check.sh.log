@@ -1,0 +1,264 @@
+v9fs ds3615xs differs
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_scsi.ko": "",
+    "9pnet.ko": "",
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
+-rwxrwxrwx  0 root   root    64360 Apr 19 16:09 9p.ko
+-rwxrwxrwx  0 root   root   107000 Apr 19 16:09 9pnet.ko
+-rwxrwxrwx  0 root   root    13504 Apr 19 16:09 9pnet_rdma.ko
+-rwxrwxrwx  0 root   root    15888 Apr 19 16:09 9pnet_virtio.ko
+-rwxrwxrwx  0 root   root    12496 May  2 18:58 virtio_balloon.ko
+-rwxrwxrwx  0 root   root    20528 May  2 18:58 virtio_blk.ko
+-rwxrwxrwx  0 root   root    10184 May  2 18:58 virtio.ko
+-rwxrwxrwx  0 root   root    10256 May  2 18:58 virtio_mmio.ko
+-rwxrwxrwx  0 root   root    39360 May  2 18:58 virtio_net.ko
+-rwxrwxrwx  0 root   root    15688 May  2 18:58 virtio_pci.ko
+-rwxrwxrwx  0 root   root    18040 May  2 18:58 virtio_ring.ko
+-rwxrwxrwx  0 root   root    21088 May  2 18:58 virtio_scsi.ko
+v9fs ds3617xs differs
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_net.ko": "",
+    "virtio_scsi.ko": "",
+    "9pnet.ko": "",
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
+-rwxrwxrwx  0 root   root    66176 Apr 19 16:14 9p.ko
+-rwxrwxrwx  0 root   root   118544 Apr 19 16:14 9pnet.ko
+-rwxrwxrwx  0 root   root    14232 Apr 19 16:14 9pnet_rdma.ko
+-rwxrwxrwx  0 root   root    16792 Apr 19 16:14 9pnet_virtio.ko
+-rwxrwxrwx  0 root   root    14024 May  2 18:56 virtio.ko
+-rwxrwxrwx  0 root   root    11888 May  2 18:56 virtio_mmio.ko
+-rwxrwxrwx  0 root   root    39496 May  2 18:56 virtio_net.ko
+-rwxrwxrwx  0 root   root    23232 May  2 18:56 virtio_pci.ko
+-rwxrwxrwx  0 root   root    13536 May  2 18:56 virtio_ring.ko
+-rwxrwxrwx  0 root   root    23328 May  2 18:56 virtio_scsi.ko
+v9fs ds3622xsp differs
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_scsi.ko": "",
+    "9pnet.ko": "",
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
+-rwxrwxrwx  0 root   root    65976 Apr 19 16:16 9p.ko
+-rwxrwxrwx  0 root   root   118192 Apr 19 16:16 9pnet.ko
+-rwxrwxrwx  0 root   root    14232 Apr 19 16:16 9pnet_rdma.ko
+-rwxrwxrwx  0 root   root    16680 Apr 19 16:16 9pnet_virtio.ko
+-rwxrwxrwx  0 root   root    21648 May  2 18:33 virtio_blk.ko
+-rwxrwxrwx  0 root   root    13928 May  2 18:31 virtio.ko
+-rwxrwxrwx  0 root   root    12048 May  2 18:31 virtio_mmio.ko
+-rwxrwxrwx  0 root   root    39440 May  2 18:31 virtio_net.ko
+-rwxrwxrwx  0 root   root    23552 May  2 18:31 virtio_pci.ko
+-rwxrwxrwx  0 root   root    13808 May  2 18:31 virtio_ring.ko
+-rwxrwxrwx  0 root   root    22584 May  2 18:31 virtio_scsi.ko
+v9fs dva3221 differs
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_scsi.ko": "",
+    "9pnet.ko": "",
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
+-rwxrwxrwx  0 root   root    67224 Apr 19 16:20 9p.ko
+-rwxrwxrwx  0 root   root   121328 Apr 19 16:20 9pnet.ko
+-rwxrwxrwx  0 root   root    14232 Apr 19 16:20 9pnet_rdma.ko
+-rwxrwxrwx  0 root   root    16856 Apr 19 16:20 9pnet_virtio.ko
+-rwxrwxrwx  0 root   root    14392 May  2 18:52 virtio_balloon.ko
+-rwxrwxrwx  0 root   root    21648 May 12 06:57 virtio_blk.ko
+-rwxrwxrwx  0 root   root    12200 May  2 18:52 virtio_input.ko
+-rwxrwxrwx  0 root   root    14168 May  2 18:52 virtio.ko
+-rwxrwxrwx  0 root   root    12128 May  2 18:52 virtio_mmio.ko
+-rwxrwxrwx  0 root   root    39968 May  2 18:52 virtio_net.ko
+-rwxrwxrwx  0 root   root    23784 May  2 18:52 virtio_pci.ko
+-rwxrwxrwx  0 root   root    14256 May  2 18:52 virtio_ring.ko
+-rwxrwxrwx  0 root   root    23184 May  2 18:52 virtio_scsi.ko
+v9fs ds920p  differs
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_scsi.ko": "",
+    "9pnet.ko": "",
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
+-rwxrwxrwx  0 root   root    66176 Apr 19 16:17 9p.ko
+-rwxrwxrwx  0 root   root   118544 Apr 19 16:17 9pnet.ko
+-rwxrwxrwx  0 root   root    14232 Apr 19 16:17 9pnet_rdma.ko
+-rwxrwxrwx  0 root   root    16792 Apr 19 16:17 9pnet_virtio.ko
+-rwxrwxrwx  0 root   root    21648 May  2 18:47 virtio_blk.ko
+-rwxrwxrwx  0 root   root    14168 May  2 18:43 virtio.ko
+-rwxrwxrwx  0 root   root    12064 May  2 18:43 virtio_mmio.ko
+-rwxrwxrwx  0 root   root    39584 May  2 18:43 virtio_net.ko
+-rwxrwxrwx  0 root   root    23592 May  2 18:43 virtio_pci.ko
+-rwxrwxrwx  0 root   root    14256 May  2 18:43 virtio_ring.ko
+-rwxrwxrwx  0 root   root    22800 May  2 18:47 virtio_scsi.ko
+v9fs ds1621p differs
+    "virtio.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_scsi.ko": "",
+    "9pnet.ko": "",
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
+-rwxrwxrwx  0 root   root    65976 Apr 19 16:19 9p.ko
+-rwxrwxrwx  0 root   root   118192 Apr 19 16:19 9pnet.ko
+-rwxrwxrwx  0 root   root    14232 Apr 19 16:19 9pnet_rdma.ko
+-rwxrwxrwx  0 root   root    16680 Apr 19 16:19 9pnet_virtio.ko
+-rwxrwxrwx  0 root   root    21584 May  2 18:41 virtio_blk.ko
+-rwxrwxrwx  0 root   root    13928 May  2 18:35 virtio.ko
+-rwxrwxrwx  0 root   root    11984 May  2 18:35 virtio_mmio.ko
+-rwxrwxrwx  0 root   root    39448 May  2 18:41 virtio_net.ko
+-rwxrwxrwx  0 root   root    23488 May  2 18:35 virtio_pci.ko
+-rwxrwxrwx  0 root   root    13744 May  2 18:35 virtio_ring.ko
+-rwxrwxrwx  0 root   root    22656 May  2 18:41 virtio_scsi.ko
+rtl8150 ds3615xs differs
+    "usbcore.ko": "",
+    "rtl8150.ko":""
+-rwxr-xr-x  0 labrouss labrouss 21904 Apr  9 00:28 rtl8150.ko
+-rw-r--r--  0 labrouss labrouss  5380 Apr  9 00:28 usb-common.ko
+-rwxr-xr-x  0 labrouss labrouss 399204 Apr  9 00:28 usbcore.ko
+rtl8150 ds3622xsp differs
+    "usbcore.ko": "",
+    "rtl8150.ko":""
+-rwxr-xr-x  0 labrouss labrouss 18832 Apr  9 00:28 rtl8150.ko
+-rw-r--r--  0 labrouss labrouss  7067 Apr  9 00:28 usb-common.ko
+-rwxr-xr-x  0 labrouss labrouss 353075 Apr  9 00:28 usbcore.ko
+rtl8150 ds920p  differs
+    "usbcore.ko": "",
+    "rtl8150.ko":""
+-rwxr-xr-x  0 labrouss labrouss 19128 Apr  9 00:28 rtl8150.ko
+-rw-r--r--  0 labrouss labrouss  8467 Apr  9 00:28 usb-common.ko
+-rw-r--r--  0 labrouss labrouss 357195 Apr  9 00:28 usbcore.ko
+r8152 ds3615xs differs
+    "mii.ko": "",
+    "r8152.ko":""
+-rwxrwxrwx  0 root   root     8680 May 11 01:10 mii.ko
+-rwxrwxrwx  0 root   root   265968 May 11 01:10 r8152.ko
+-rwxrwxrwx  0 root   root   355272 May 11 01:10 usbcore.ko
+r8152 ds918p  differs
+    "mii.ko": "",
+    "r8152.ko":""
+-rwxrwxrwx  0 root   root     8952 May 11 01:12 mii.ko
+-rwxrwxrwx  0 root   root   263904 May 11 01:12 r8152.ko
+-rwxrwxrwx  0 root   root     3864 May 11 01:12 usb-common.ko
+-rwxrwxrwx  0 root   root   179216 May 11 01:12 usbcore.ko
+r8152 ds3622xsp differs
+    "mii.ko": "",
+    "r8152.ko":""
+-rwxrwxrwx  0 root   root     9040 May 11 01:13 mii.ko
+-rwxrwxrwx  0 root   root   262840 May 11 01:13 r8152.ko
+-rwxrwxrwx  0 root   root     6520 May 11 01:13 usb-common.ko
+-rwxrwxrwx  0 root   root   352528 May 11 01:13 usbcore.ko
+r8152 ds920p  differs
+    "usbcore.ko": "",
+    "mii.ko": "",
+    "r8152.ko":""
+-rwxrwxrwx  0 root   root     8952 May 11 01:17 mii.ko
+-rwxrwxrwx  0 root   root   262840 May 11 01:17 r8152.ko
+-rwxrwxrwx  0 root   root     7920 May 11 01:17 usb-common.ko
+-rwxrwxrwx  0 root   root   356648 May 11 01:17 usbcore.ko
+mpt3sas ds3615xs differs
+    "mpt3sas.ko":""
+-rwxrwxrwx  0 root   root   344400 Jan 18 22:33 mpt3sas.ko
+-rwxrwxrwx  0 root   root    10704 Jan 18 20:47 raid_class.ko
+-rwxrwxrwx  0 root   root    52392 Jan 18 20:47 scsi_transport_sas.ko
+mpt2sas ds3615xs differs
+    "mpt2sas.ko":""
+-rwxrwxrwx  0 root   root   343624 Jan 18 22:34 mpt2sas.ko
+-rwxrwxrwx  0 root   root    10296 Oct 18  2021 raid_class.ko
+-rwxrwxrwx  0 root   root    50816 Oct 18  2021 scsi_transport_sas.ko
+ixgbe.vanilla ds3615xs differs
+    "dca.ko": "",
+    "ixgbe.ko":""
+ixgbe dva3221 differs
+    "dca.ko": "",
+    "vxlan.ko": "",
+    "ixgbe.ko":""
+-rw-r--r--  0 labrouss labrouss 417808 Apr  9 00:28 dca.ko
+-rwxr-xr-x  0 labrouss labrouss   5283 Apr  9 00:28 ip6_udp_tunnel.ko
+-rwxr-xr-x  0 labrouss labrouss 442368 Apr  9 00:28 ixgbe.ko
+-rwxr-xr-x  0 labrouss labrouss   6443 Apr  9 00:28 udp_tunnel.ko
+-rwxr-xr-x  0 labrouss labrouss  53536 Apr  9 00:28 vxlan.ko
+ixgbe ds920p  differs
+    "dca.ko": "",
+    "vxlan.ko": "",
+    "ixgbe.ko":""
+-rw-r--r--  0 labrouss labrouss 417704 Apr  9 00:28 dca.ko
+-rw-r--r--  0 labrouss labrouss   5283 Apr  9 00:28 ip6_udp_tunnel.ko
+-rwxr-xr-x  0 labrouss labrouss 442368 Apr  9 00:28 ixgbe.ko
+-rw-r--r--  0 labrouss labrouss   6443 Apr  9 00:28 udp_tunnel.ko
+-rwxr-xr-x  0 labrouss labrouss  53024 Apr  9 00:28 vxlan.ko
+dm9601 ds3615xs differs
+    "usbnet.ko": "",
+    "usbcore.ko": "",
+    "mii.ko": "",
+    "dm9601.ko":""
+-rwxr-xr-x  0 labrouss labrouss 18256 Apr  9 00:28 dm9601.ko
+-rwxr-xr-x  0 labrouss labrouss  8800 Apr  9 00:28 mii.ko
+-rw-r--r--  0 labrouss labrouss  5380 Apr  9 00:28 usb-common.ko
+-rwxr-xr-x  0 labrouss labrouss 399204 Apr  9 00:28 usbcore.ko
+-rwxr-xr-x  0 labrouss labrouss  56208 Apr  9 00:28 usbnet.ko
+dm9601 ds920p  differs
+    "usbnet.ko": "",
+    "usbcore.ko": "",
+    "mii.ko": "",
+    "dm9601.ko":""
+-rwxr-xr-x  0 labrouss labrouss 16200 Apr  9 00:28 dm9601.ko
+-rwxr-xr-x  0 labrouss labrouss  9072 Apr  9 00:28 mii.ko
+-rw-r--r--  0 labrouss labrouss  8467 Apr  9 00:28 usb-common.ko
+-rw-r--r--  0 labrouss labrouss 357195 Apr  9 00:28 usbcore.ko
+-rwxr-xr-x  0 labrouss labrouss  43411 Apr  9 00:28 usbnet.ko
+ax88179_178a ds920p  differs
+    "usbnet.ko": "",
+    "usbcore.ko": "",
+    "mii.ko": "",
+    "ax88179_178a.ko":""
+-rwxr-xr-x  0 labrouss labrouss 25928 Apr  9 00:28 ax88179_178a.ko
+-rwxr-xr-x  0 labrouss labrouss  9072 Apr  9 00:28 mii.ko
+-rw-r--r--  0 labrouss labrouss  8467 Apr  9 00:28 usb-common.ko
+-rw-r--r--  0 labrouss labrouss 357195 Apr  9 00:28 usbcore.ko
+-rwxr-xr-x  0 labrouss labrouss  43411 Apr  9 00:28 usbnet.ko
+asix ds3615xs differs
+    "mii.ko": "",
+    "libphy.ko": "",
+    "usbnet.ko": "",
+    "usbcore.ko": "",
+    "asix.ko":""
+-rwxr-xr-x  0 labrouss labrouss 61256 Apr  9 00:28 asix.ko
+-rwxr-xr-x  0 labrouss labrouss 40840 Apr  9 00:28 libphy.ko
+-rwxr-xr-x  0 labrouss labrouss  8800 Apr  9 00:28 mii.ko
+-rw-r--r--  0 labrouss labrouss  5380 Apr  9 00:28 usb-common.ko
+-rwxr-xr-x  0 labrouss labrouss 399204 Apr  9 00:28 usbcore.ko
+-rwxr-xr-x  0 labrouss labrouss  56208 Apr  9 00:28 usbnet.ko
+asix ds920p  differs
+    "mii.ko": "",
+    "libphy.ko": "",
+    "usbnet.ko": "",
+    "usbcore.ko": "",
+    "asix.ko":""
+-rwxr-xr-x  0 labrouss labrouss 44624 Apr  9 00:28 asix.ko
+-rwxr-xr-x  0 labrouss labrouss 53368 Apr  9 00:28 libphy.ko
+-rwxr-xr-x  0 labrouss labrouss  9072 Apr  9 00:28 mii.ko
+-rw-r--r--  0 labrouss labrouss  8467 Apr  9 00:28 usb-common.ko
+-rw-r--r--  0 labrouss labrouss 357195 Apr  9 00:28 usbcore.ko
+-rwxr-xr-x  0 labrouss labrouss  43411 Apr  9 00:28 usbnet.ko
