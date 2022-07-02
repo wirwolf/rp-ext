@@ -5,13 +5,13 @@
     {
       "name": "r8125-4.4.180plus-broadwellnk.tgz",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8125/releases/r8125-4.4.180plus-broadwellnk.tgz",
-      "sha256": "10cfbe1ff919c429feb243b7856006b317a1d6f5c8d8ed8ce7c0265fad853f4c",
+      "sha256": "06e1920caa89d8537d06d217bf1563e6ddb14eb108fefaae6114d87d2d9874f4",
       "packed": true
     },
     {
       "name": "check-r8125.sh",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8125/src/check-r8125.sh",
-      "sha256": "15eac7a0f4da571ed85921b6d5dc7b03fa9ebf7ec5af7850cadc338a9f867a03",
+      "sha256": "ec4f266812ed308c0e15363315cfe696a2eee48b024130260fca15bd6e63dd91",
       "packed": false
     }
   ],
