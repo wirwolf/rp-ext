@@ -55,7 +55,7 @@
       "packed": false
     },
     {
-      "name": "model_dva3221.dtb,
+      "name": "model_dva3221.dtb",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-dtb-static/releases/model_dva3221.dtb",
       "sha256": "b853bc937664e1867f341882731a6837d8a1ac45eabc37a7e4eeb148b8a63986",
       "packed": false
