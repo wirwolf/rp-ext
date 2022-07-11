@@ -1,8 +1,8 @@
 #!/usr/bin/env ash
 
-echo "${1}"
+echo "${2}"
 
-if [ "${1}" = "on_boot" ]; then
+if [ "${2}" = "on_boot" ]; then
   echo "dtbpatch - on_boot"
   # fix executable flag
   cp dtbpatch /usr/sbin/
@@ -16,7 +16,7 @@ if [ "${1}" = "on_boot" ]; then
     cp -vf output.dtb /etc.defaults/model.dtb
     cp -vf output.dtb /var/run/model.dtb
   fi
-elif [ "${1}" = "on_os_load" ]; then
+elif [ "${2}" = "on_os_load" ]; then
   echo "dtbpatch - on_os_load"
   # copy file
   cp -vf /etc.defaults/model.dtb /tmpRoot/etc.defaults/model.dtb
