@@ -8,7 +8,7 @@ echo "dtb file not exists for this platform!!!, dtbpatch running..."
   chmod +x /usr/sbin/dtbpatch
 
   # Dynamic generation
-  /usr/bin/dtbpatch /etc.defaults/model.dtb output.dtb
+  /usr/sbin/dtbpatch /etc.defaults/model.dtb output.dtb
   if [ $? -ne 0 ]; then
     echo "auto generated dtb file is broken"
   else
