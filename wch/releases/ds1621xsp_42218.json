@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "wch-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/releases/wch-4.4.180plus.tgz",
+      "sha256": "3069bbbd3a6671252935f19045f004c2dfdd4b14f17be3ef1c4eedfe8ec9eba5",
+      "packed": true
+    },
+    {
+      "name": "check-wch.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/src/check-wch.sh",
+      "sha256": "12589cd7d0b5da3f672abe811096920bf00ce9cb0c71a636ca0c7d44c0b52395",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "wch.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-wch.sh"
+  }
+
+}
