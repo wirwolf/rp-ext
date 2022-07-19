@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "alx-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/alx/releases/alx-4.4.180plus.tgz",
-      "sha256": "6ed445b4e52b1f92710b9fd0c1a3001c2589e34cdfea8f46921f29b5a2311e0e",
+      "name": "alx-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/alx/releases/alx-4.4.180plus-broadwellnk.tgz",
+      "sha256": "5a218242f4bfd2a3b465bc01824f3fcf3a966eb67ca757057b69a0b8e9d6ad68",
       "packed": true
     },
     {
@@ -18,7 +18,7 @@
 
   "kmods": {
     "mdio.ko": "",
-    "alx.ko": ""
+    "alx.ko":""
   },
 
     "scripts": {

@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "mlx5_core-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx5_core/releases/mlx5_core-4.4.180plus.tgz",
-      "sha256": "7188840f7bb38dfab04d0bf10ff13fe53f7cee72a6cf01e7d88d07f81d314457",
+      "name": "mlx5_core-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx5_core/releases/mlx5_core-4.4.180plus-broadwellnk.tgz",
+      "sha256": "d8e5f9e2aa592c8a64a36e3e8aad1bd1d487d52dd71a2aab93aec462e4cfc5ef",
       "packed": true
     },
     {

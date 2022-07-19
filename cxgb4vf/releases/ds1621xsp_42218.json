@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "cxgb4vf-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4vf/releases/cxgb4vf-4.4.180plus.tgz",
-      "sha256": "2681f9e7c75afe1841e0d5d3a9f9464d03f0ebc7cd4d81c01ebbafc4cccda89f",
+      "name": "cxgb4vf-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4vf/releases/cxgb4vf-4.4.180plus-broadwellnk.tgz",
+      "sha256": "984f5e2826e12afb12eeb39f9502499b5e18d88f6b38ac96c6435d3e39bdd62f",
       "packed": true
     },
     {

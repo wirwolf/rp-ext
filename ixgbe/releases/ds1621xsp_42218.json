@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "ixgbe-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/releases/ixgbe-4.4.180plus.tgz",
-      "sha256": "716a41cd13f1f3c61f3d84f7c20491b395407a84916b1da36f490455f494943a",
+      "name": "ixgbe-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/releases/ixgbe-4.4.180plus-broadwellnk.tgz",
+      "sha256": "96d1f531fc2ffc747e85d1316e08240d640fc3ebcbfae7a6e0d4bf8f9742272a",
       "packed": true
     },
     {
@@ -19,6 +19,7 @@
   "kmods": {
     "udp_tunnel.ko": "",
     "ip6_udp_tunnel.ko": "",
+    "dca.ko": "",
     "vxlan.ko": "",
     "ixgbe.ko":""
   },

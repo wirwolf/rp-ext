@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "i40e-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/i40e/releases/i40e-4.4.180plus.tgz",
-      "sha256": "4353895217db8c8027936c5e834b68e50e958e93c2a4725dbcf5a511f973f8dd",
+      "name": "i40e-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/i40e/releases/i40e-4.4.180plus-broadwellnk.tgz",
+      "sha256": "fc71cc26fde605b254e7dd592a673e123bf3e66667b736bfe8ecf26b3c8c117e",
       "packed": true
     },
     {
@@ -17,7 +17,8 @@
   ],
 
   "kmods": {
-    "i40e.ko": ""
+    "vxlan.ko": "",
+    "i40e.ko":""
   },
 
     "scripts": {

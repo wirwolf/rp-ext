@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "megaraid_sas-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/megaraid_sas/releases/megaraid_sas-4.4.180plus.tgz",
-      "sha256": "fc0f85019ef5572a084634ede1dfef85af588434d326da6cf16fc9ff22f18f68",
+      "name": "megaraid_sas-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/megaraid_sas/releases/megaraid_sas-4.4.180plus-broadwellnk.tgz",
+      "sha256": "c4a4c6478c93af3977ef2455abac7837f49bab5806b02520e96df5faa3c1b78e",
       "packed": true
     },
     {

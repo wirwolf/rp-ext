@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "mptspi-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/releases/mptspi-4.4.180plus.tgz",
-      "sha256": "5348a2973d61887aecea32ad2788965e8477f3187dd29e15b51e64e5edf8a795",
+      "name": "mptspi-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/releases/mptspi-4.4.180plus-broadwellnk.tgz",
+      "sha256": "fe6a75d8ec6669fdf7818cd6f40c8b4c90cc0ce3edf256957b1bc8934fc40196",
       "packed": true
     },
     {

@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "cxgb3-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb3/releases/cxgb3-4.4.180plus.tgz",
-      "sha256": "af369118f6f3307495fceb622e50c4bc777e2d83f82a367cba3e41b201ba2df7",
+      "name": "cxgb3-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb3/releases/cxgb3-4.4.180plus-broadwellnk.tgz",
+      "sha256": "64c034b7676f8143a166e3655f81c11b719c29d0307f6aced1931857131c95bf",
       "packed": true
     },
     {
@@ -17,7 +17,8 @@
   ],
 
   "kmods": {
-    "cxgb3.ko": ""
+    "mdio.ko": "",
+    "cxgb3.ko":""
   },
 
     "scripts": {

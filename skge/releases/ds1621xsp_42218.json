@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "skge-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/skge/releases/skge-4.4.180plus.tgz",
-      "sha256": "972609a350aadcf5705723c4ab9076ad4cdef95f528f778d0e310943be72230a",
+      "name": "skge-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/skge/releases/skge-4.4.180plus-broadwellnk.tgz",
+      "sha256": "51455a1ee550956acba8ec4101ee421190462bb86f8242d182a79446400f4eef",
       "packed": true
     },
     {

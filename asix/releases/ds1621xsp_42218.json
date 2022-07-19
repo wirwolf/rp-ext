@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "asix-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/asix/releases/asix-4.4.180plus.tgz",
-      "sha256": "ecfb7fcafedf366e2160bbf29d206035a6df8bb273bfc77a815179e7aaf6b818",
+      "name": "asix-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/asix/releases/asix-4.4.180plus-broadwellnk.tgz",
+      "sha256": "8fcfcaeea256007402ac51a7e236283985e6dfa5b338e665da930ed2578531d9",
       "packed": true
     },
     {
@@ -17,10 +17,10 @@
   ],
 
   "kmods": {
-    "mii.ko": "",
     "libphy.ko": "",
-    "usbnet.ko": "",
+    "mii.ko": "",
     "usbcore.ko": "",
+    "usbnet.ko": "",
     "asix.ko":""
   },
 

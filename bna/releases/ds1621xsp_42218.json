@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "bna-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bna/releases/bna-4.4.180plus.tgz",
-      "sha256": "17a4b3ce0d17d752eb330e8beb38b70e4b2bed9e72c87f06f7f49db95a443765",
+      "name": "bna-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bna/releases/bna-4.4.180plus-broadwellnk.tgz",
+      "sha256": "2ea7aefa47aadfbf3138ddde997383d3b9f56a36888341b1b32b52f38a517cf2",
       "packed": true
     },
     {

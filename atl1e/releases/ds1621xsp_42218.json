@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "atl1e-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1e/releases/atl1e-4.4.180plus.tgz",
-      "sha256": "529fe0efffb21be6830c7c46312951fd1145ee1416ab5effebadb488f79be8a9",
+      "name": "atl1e-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1e/releases/atl1e-4.4.180plus-broadwellnk.tgz",
+      "sha256": "f02bcd8cb53cb926c068ad4271cfad67bd3fc9e0d92dcfa55aa3a1b84e2793b9",
       "packed": true
     },
     {

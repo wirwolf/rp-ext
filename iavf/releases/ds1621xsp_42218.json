@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "iavf-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/releases/iavf-4.4.180plus.tgz",
-      "sha256": "638a6b6073d3de5e6ecdb46dbd88bc3301a42810ade32173f59f21c8353f1e81",
+      "name": "iavf-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/releases/iavf-4.4.180plus-broadwellnk.tgz",
+      "sha256": "b47e2d87fe1b8cfe644e80a5cb64dd999a64826f6c077d876bdeaa374f3da8b0",
       "packed": true
     },
     {

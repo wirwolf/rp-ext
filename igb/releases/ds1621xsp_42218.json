@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "igb-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/igb-4.4.180plus.tgz",
-      "sha256": "48151ad04cfb243ada7d147542d5bbfcb4e7f2e456d5ba3562090c7189076ade",
+      "name": "igb-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/igb-4.4.180plus-broadwellnk.tgz",
+      "sha256": "a76aaeba6778378a064c79dafb5477f5128e74aca69876b723c9382d635d7e4b",
       "packed": true
     },
     {
@@ -17,7 +17,8 @@
   ],
 
   "kmods": {
-    "igb.ko": ""
+    "dca.ko": "",
+    "igb.ko":""
   },
 
     "scripts": {

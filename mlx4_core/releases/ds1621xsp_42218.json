@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "mlx4_core-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/mlx4_core-4.4.180plus.tgz",
-      "sha256": "ad1cdbcf56e311317be6d2070f692e55156714808ee5ad8f31ba863bfc1c3ba7",
+      "name": "mlx4_core-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/mlx4_core-4.4.180plus-broadwellnk.tgz",
+      "sha256": "e456847929e84a553b171214b9665edb95d8d682a98a0babd72276d8b2b78a73",
       "packed": true
     },
     {
@@ -13,23 +13,15 @@
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/src/check-mlx4_core.sh",
       "sha256": "79105bd32ada068b12121a1da888115e0b2b22a1942f614a31ab32566bdea779",
       "packed": false
-    },
-    {
-      "name": "on_os_load_mlx4_core.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/src/on_os_load_mlx4_core.sh",
-      "sha256": "71c20b04a708e9811dc0dd4bce1ec8ae31d50e5f688a230d32ba24073ed2cffa",
-      "packed": false
     }
   ],
 
   "kmods": {
-    "mlx4_core.ko": "",
-    "mlx4_en.ko": ""
+    "mlx4_core.ko": ""
   },
 
     "scripts": {
-    "on_boot": "check-mlx4_core.sh",
-    "on_os_load": "on_os_load_mlx4_core.sh"
+    "on_boot": "check-mlx4_core.sh"
   }
 
 }

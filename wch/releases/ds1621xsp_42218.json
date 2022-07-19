@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "wch-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/releases/wch-4.4.180plus.tgz",
-      "sha256": "3069bbbd3a6671252935f19045f004c2dfdd4b14f17be3ef1c4eedfe8ec9eba5",
+      "name": "wch-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/releases/wch-4.4.180plus-broadwellnk.tgz",
+      "sha256": "ce4dd992a59ef974f1458d0c2e664d0e029dcc2af71415ffe328c2d8ae13235e",
       "packed": true
     },
     {

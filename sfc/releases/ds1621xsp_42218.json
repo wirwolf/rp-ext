@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "sfc-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sfc/releases/sfc-4.4.180plus.tgz",
-      "sha256": "ae60673f3f5c885db355bf3af8589d02fc508b1ca9fef2905273a0bc65d6fedc",
+      "name": "sfc-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sfc/releases/sfc-4.4.180plus-broadwellnk.tgz",
+      "sha256": "0d904c8adfbf807c45c80792ed2f401d9e25e66a5755854a2143cdea9e30b673",
       "packed": true
     },
     {
@@ -17,6 +17,7 @@
   ],
 
   "kmods": {
+    "mdio.ko": "",
     "i2c-algo-bit.ko": "",
     "sfc.ko":""
   },

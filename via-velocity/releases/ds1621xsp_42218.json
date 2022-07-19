@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "via-velocity-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-velocity/releases/via-velocity-4.4.180plus.tgz",
-      "sha256": "ae82e867a6edb0e062926e5abd7bc69c19f1085a019695b897dba15c239d3706",
+      "name": "via-velocity-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-velocity/releases/via-velocity-4.4.180plus-broadwellnk.tgz",
+      "sha256": "c93c5ed627b497b6621a2c09f098d238bfbc4be61452ea96ed281507cfd4f650",
       "packed": true
     },
     {

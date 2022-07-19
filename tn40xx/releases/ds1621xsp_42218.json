@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "tn40xx-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tn40xx/releases/tn40xx-4.4.180plus.tgz",
-      "sha256": "f026d308cbf1d45811e33ff0f02444d8f63b59b6f5f0f667297ee831094d49c9",
+      "name": "tn40xx-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tn40xx/releases/tn40xx-4.4.180plus-broadwellnk.tgz",
+      "sha256": "ef8516bab4207723231a92ae5f05318a57e199b9da7384f3d27be4b1da9e2d99",
       "packed": true
     },
     {

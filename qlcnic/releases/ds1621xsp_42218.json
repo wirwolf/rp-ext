@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "qlcnic-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/releases/qlcnic-4.4.180plus.tgz",
-      "sha256": "314a693bb0252ed2c1c0c18ff5c5da3033014744e76eca7e0cbe532fb3021617",
+      "name": "qlcnic-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/releases/qlcnic-4.4.180plus-broadwellnk.tgz",
+      "sha256": "c350ba10b996abe7ae859e10b08f6555b6846184c333730078ca3eb840d8915b",
       "packed": true
     },
     {

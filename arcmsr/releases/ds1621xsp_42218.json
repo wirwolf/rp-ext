@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "arcmsr-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/arcmsr/releases/arcmsr-4.4.180plus.tgz",
-      "sha256": "a35fbde715422b915a5e2cef63422757e37ef6ce3c9e96421111a1f5cc5a06a9",
+      "name": "arcmsr-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/arcmsr/releases/arcmsr-4.4.180plus-broadwellnk.tgz",
+      "sha256": "4341602c26c45e756f45767a14907a1bb8334b932e2da003487f36b8fed112a7",
       "packed": true
     },
     {

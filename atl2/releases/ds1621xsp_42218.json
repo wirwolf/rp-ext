@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "atl2-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl2/releases/atl2-4.4.180plus.tgz",
-      "sha256": "3265f53a2fa8dec47668ba5d31f46743ffb0d3f31f087d6148a52bec43c0a489",
+      "name": "atl2-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl2/releases/atl2-4.4.180plus-broadwellnk.tgz",
+      "sha256": "1b6f447fafff2f258c3c65a6cc728db73d28318c057b43f931236e0a8c5ceb8b",
       "packed": true
     },
     {

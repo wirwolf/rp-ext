@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "mvsas-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mvsas/releases/mvsas-4.4.180plus.tgz",
-      "sha256": "d727c9d6b65d9275eee6a6534b87feb3c75ba921339016dfe66f3ba0753c8236",
+      "name": "mvsas-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mvsas/releases/mvsas-4.4.180plus-broadwellnk.tgz",
+      "sha256": "f8e45374ee70e3e69243bc5432aa0360ea8283c7c26703077dbde69bb3c33ae2",
       "packed": true
     },
     {

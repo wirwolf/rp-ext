@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "be2net-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/be2net/releases/be2net-4.4.180plus.tgz",
-      "sha256": "5735daad9eeafab5f0fa403bc7747d7c58e687d98061bcd73e29d492824ba867",
+      "name": "be2net-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/be2net/releases/be2net-4.4.180plus-broadwellnk.tgz",
+      "sha256": "0faa9633673ecb37bdd2ff69c8ecf746adb2a855a11f7af13ef6103f23b3ef20",
       "packed": true
     },
     {

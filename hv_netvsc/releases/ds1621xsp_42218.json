@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "hv_netvsc-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/releases/hv_netvsc-4.4.180plus.tgz",
-      "sha256": "b97a4966d6621c1356a5dbb76de3b9e7aff3016118e01afe13512be372dfcaf3",
+      "name": "hv_netvsc-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hv_netvsc/releases/hv_netvsc-4.4.180plus-broadwellnk.tgz",
+      "sha256": "5a6639b9a901bb9cb424198262bf73521bd3a45b5d922b0e2abb922f29f57bc5",
       "packed": true
     },
     {

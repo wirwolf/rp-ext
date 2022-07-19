@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "aic94xx-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/releases/aic94xx-4.4.180plus.tgz",
-      "sha256": "5207496374260c34aec4330f79ed39f487779d51d680572e2a98d32eee771f2d",
+      "name": "aic94xx-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/releases/aic94xx-4.4.180plus-broadwellnk.tgz",
+      "sha256": "8e3bb93855f438825370f48282122b466c11cefedad7e79454eab271a7f1bf2f",
       "packed": true
     },
     {
