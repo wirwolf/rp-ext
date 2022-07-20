@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "qlcnic-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/releases/qlcnic-4.4.180plus-broadwellnk.tgz",
+      "sha256": "c350ba10b996abe7ae859e10b08f6555b6846184c333730078ca3eb840d8915b",
+      "packed": true
+    },
+    {
+      "name": "check-qlcnic.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/src/check-qlcnic.sh",
+      "sha256": "ea4177481b0914e1cb55338dca310d7f07ef39a39dd95e0158e773d1d59d8092",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "qlcnic.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-qlcnic.sh"
+  }
+
+}
