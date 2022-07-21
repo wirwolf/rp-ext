@@ -9,7 +9,7 @@
   },
   "releases": {
 	"rs4021xsp_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3615xs_41222":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "dva3219_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "ds3615xs_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "rs4021xsp_42661":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "fs2500_42218":        "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
@@ -19,7 +19,7 @@
     "ds3617xs_25556":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "ds3617xs_25556u2":    "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "ds3617xs_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3617xs_42621":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "dva3219_42661":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "ds3617xs_42218u2":    "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "dva1622_42218":       "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
     "dva1622_42661":       "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",	  	  

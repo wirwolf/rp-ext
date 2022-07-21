@@ -1,0 +1,30 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "mptspi-4.4.180plus-denverton.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/releases/mptspi-4.4.180plus-denverton.tgz",
+      "sha256": "0330108651c04f67f74d19c084a22595a669763e9415b9582d90bee1d33eda88",
+      "packed": true
+    },
+    {
+      "name": "check-mptspi.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/src/check-mptspi.sh",
+      "sha256": "1777fa35e08a126deca036aea43f414d035fa28e7048d013464c049f231aa7db",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "scsi_transport_spi.ko": "",
+    "mptbase.ko": "",
+    "mptscsih.ko": "",
+    "mptspi.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-mptspi.sh"
+  }
+
+}

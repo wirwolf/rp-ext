@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "iavf-4.4.180plus-denverton.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/releases/iavf-4.4.180plus-denverton.tgz",
+      "sha256": "e3dd0a2e7848ece040fd3bcab516e3e68a6657e8da0408f3e5d786273f93c066",
+      "packed": true
+    },
+    {
+      "name": "check-iavf.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/src/check-iavf.sh",
+      "sha256": "344c4a1ed652e9e7c66713b69b362add23b3d911b985ce2d9b4c06666ba98be7",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "iavf.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-iavf.sh"
+  }
+
+}

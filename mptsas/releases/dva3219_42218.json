@@ -1,0 +1,32 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "mptsas-4.4.180plus-denverton.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/releases/mptsas-4.4.180plus-denverton.tgz",
+      "sha256": "fe048900a68054d130261edd0eff1519aab21f6dc69564fe25f1dc732478bb36",
+      "packed": true
+    },
+    {
+      "name": "check-mptsas.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/src/check-mptsas.sh",
+      "sha256": "ee1e7c249fc081e09a97837877087b154fa4ef468cbc5605eb49ade2c72e4f34",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "raid_class.ko": "",
+    "scsi_transport_sas.ko": "",
+    "mptbase.ko": "",
+    "mptscsih.ko": "",
+    "mptsas.ko":""
+
+  },
+
+    "scripts": {
+    "on_boot": "check-mptsas.sh"
+  }
+
+}
