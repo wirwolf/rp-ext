@@ -105,7 +105,7 @@ Extension Name: "Early telnet start" Description : "Simple extension which start
 Extension Name: "redpill" Description : "Adds  Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/rpext-index.json">LINK</a><br>
 Extension Name: "ACPI Daemon v2" Description : "ACPI Daemon v2 that handles power button events"
-<a href="https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/rpext-index.json">LINK</a><br>
+<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-acpid/rpext-index.json">LINK</a><br>
 Extension Name: "RedPill Bootwait" Description : "Simple extension which stops the execution early waiting for the boot device to appear"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-boot-wait/rpext-index.json">LINK</a><br>
 Extension Name: "rtl8150" Description : "Adds rtl8150 based usb-ethernet driver Support"
