@@ -54,8 +54,6 @@ Extension Name: "hv_netvsc" Description : "Adds Microsoft Hyper-V network driver
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hv_netvsc/rpext-index.json">LINK</a><br>
 Extension Name: "i40e" Description : "Adds Intel(R) Ethernet Connection XL710 Network Driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/rpext-index.json">LINK</a><br>
-Extension Name:  Description : 
-<a href=>LINK</a><br>
 Extension Name: "iavf" Description : "Adds Intel(R) Ethernet Adaptive Virtual Function Driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/rpext-index.json">LINK</a><br>
 Extension Name: "igb" Description : "Adds Intel(R) Gigabit Ethernet Network Driver Support"
