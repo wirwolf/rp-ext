@@ -1,6 +1,6 @@
 <h3 align=”center”>This repo holds some redpill extensions, use at your own risk</h3>
 <h3 align=”center”>Test the extensions and if they do not work as intended please open an issue</h3>
-Extension Name: "3w-sas" Description : "Adds  Support"
+Extension Name: "3w-sas" Description : "Adds LSI 3ware SAS/SATA-RAID Controller Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/rpext-index.json">LINK</a><br>
 Extension Name: "8139cp" Description : "Adds RealTek RTL-8139C+ series 10/100 PCI Ethernet driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/rpext-index.json">LINK</a><br>
