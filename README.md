@@ -3,7 +3,7 @@
 Extension Name: "3w-sas" Description : "Adds  Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/rpext-index.json">LINK</a><br>
 Extension Name: "8139cp" Description : "Adds RealTek RTL-8139C+ series 10/100 PCI Ethernet driver Support"
-<a href="hhttps://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/rpext-index.json">LINK</a><br>
+<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/rpext-index.json">LINK</a><br>
 Extension Name: "8139too" Description : "Adds RealTek RTL-8139 Fast Ethernet driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/rpext-index.json">LINK</a><br>
 Extension Name: "aacraid" Description : "Adds  Support"
