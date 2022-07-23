@@ -3,7 +3,7 @@
   "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/rpext-index.json",
   "info": {
     "name": "3w-sas",
-    "description": "Adds  Support",
+    "description": "Adds LSI 3ware SAS/SATA-RAID Controller Support",
     "author_url": "https://github.com/PeterSuh-Q3",
     "packer_url": "https://github.com/PeterSuh-Q3/rp-ext/tree/main/3w-sas",
     "help_url": "<todo>"
