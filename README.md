@@ -7,9 +7,9 @@ Extension Name: "8139cp" Description : "Adds RealTek RTL-8139C+ series 10/100 PC
 Extension Name: "8139too" Description : "Adds RealTek RTL-8139 Fast Ethernet driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/rpext-index.json">LINK</a><br>
 Extension Name: "aacraid" Description : "Adds  Support"
-<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/rpext-index.json">LINK</a><br>
-Extension Name: "acpid" Description : "Adds ACPI Daemon that handles power button events (jimmyGALLAND) Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/rpext-index.json">LINK</a><br>
+Extension Name: "acpid" Description : "Adds ACPI Daemon that handles power button events (jimmyGALLAND) Support"
+<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/rpext-index.json">LINK</a><br>
 Extension Name: "aic94xx" Description : "Adds Adaptec aic94xx SAS/SATA driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/rpext-index.json">LINK</a><br>
 Extension Name: "alx" Description : "Adds Qualcomm Atheros(R) AR816x/AR817x PCI-E Ethernet Network Driver Support"
