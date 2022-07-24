@@ -1,8 +1,8 @@
 {
   "id": "jg.acpid",
-  "url": "https://raw.githubusercontent.com/jimmyGALLAND/redpill-ext/master/acpid/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/redpill-ext/master/acpid/rpext-index.json",
   "info": {
-    "name": "ACPI Daemon",
+    "name": "ACPI Daemon jimmyGALLAND",
     "description": "ACPI Daemon that handles power button events",
     "author_url": "https://sourceforge.net/projects/acpid2/",
     "packer_url": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid",
