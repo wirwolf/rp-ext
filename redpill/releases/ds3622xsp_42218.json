@@ -11,7 +11,7 @@
     {
       "name": "check-redpill.sh",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/src/check-redpill.sh",
-      "sha256": "59ebc3776123812ad7c19363dddfd4d02592d08c038d3a555d6059b003c7213a",
+      "sha256": "60825be580f1d152885b20a9210baf546fa10df70f0ec1d28fc25e4cfafa20bf",
       "packed": false
     }
   ],
