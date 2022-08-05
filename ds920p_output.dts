@@ -75,7 +75,7 @@
 		};
 	};
 
-	internal_slot@0 {
+	internal_slot@6 {
 		protocol_type = "sata";
 		power_pin_gpio = <0x15 0x00>;
 		detect_pin_gpio = <0x24 0x01>;
