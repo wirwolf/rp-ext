@@ -15,7 +15,7 @@
     {
       "name": "install.sh",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/releases/install.sh",
-      "sha256": "1e1cac4dc54a6649734b308947cedab51993ed27023b7d1ede0ea1f76caac932",
+      "sha256": "d90976022e67ce004d5403a46399fe941a0a4887de4fe55bc52987f0d3b398c2",
       "packed": false
     }
   ],
