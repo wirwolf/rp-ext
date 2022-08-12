@@ -32,7 +32,7 @@ if [ "$HASBOOTED" = "no" ]; then
 
   # Dynamic generation fabio
   if dtbpatch /etc.defaults/${DTBFILE} /var/run/model.dtb; then
-    cp -f /var/run/model.dtb /etc.defaults/${DTBFILE}
+    cp -vf /var/run/model.dtb /etc.defaults/${DTBFILE}
   else
     echo "Error patching dtb"
   fi
@@ -53,8 +53,8 @@ elif [ "$HASBOOTED" = "yes" ]; then
   echo "Copying /etc.defaults/${DTBFILE}"
   
   # copy utilities 
-  cp /usr/sbin/dtbpatch /tmpRoot/usr/sbin
-  cp /usr/sbin/dtc /tmpRoot/usr/sbin
+  cp -f /usr/sbin/dtbpatch /tmpRoot/usr/sbin
+  cp -f /usr/sbin/dtc /tmpRoot/usr/bin
   
   # copy file fabio
   cp -vf /etc.defaults/${DTBFILE} /tmpRoot/etc.defaults/model.dtb  
