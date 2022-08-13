@@ -1,0 +1,24 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "via-rhine-4.4.180plus-broadwell.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-rhine/releases/via-rhine-4.4.180plus-broadwell.tgz",
+      "sha256": "6ac808d3dae877571b924f3299059ea37e9b089c502606b367cfc4f70592fdd7",
+      "packed": true
+    },
+    {
+      "name": "check-via-rhine.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-rhine/src/check-via-rhine.sh",
+      "sha256": "07a7e3203e04891fd6182e830b48f180171be32f925aa6dad421593c851a187e",
+      "packed": false
+    }
+  ],
+  "kmods": {
+    "mii.ko": "",
+    "via-rhine.ko": ""
+  },
+  "scripts": {
+    "on_boot": "check-via-rhine.sh"
+  }
+}

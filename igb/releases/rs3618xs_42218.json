@@ -1,0 +1,25 @@
+{
+  "mod_version": "v1",
+  "files": [
+    {
+      "name": "igb-4.4.180plus-broadwell.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/igb-4.4.180plus-broadwell.tgz",
+      "sha256": "41ae2e9b7828e89088e6020486dabb0907f1db3f9b71d4e795b87b5fcafe5ff1",
+      "packed": true
+    },
+    {
+      "name": "check-igb.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/src/check-igb.sh",
+      "sha256": "1c287077390c24764eeb0f1e768232cfd4e26e0cb5b01154464d7181d1c3ebf4",
+      "packed": false
+    }
+  ],
+  "kmods": {
+   "i2c-algo-bit.ko": "",
+   "dca.ko": "",
+   "igb.ko": ""
+  },
+  "scripts": {
+    "on_boot": "check-igb.sh"
+  }
+}

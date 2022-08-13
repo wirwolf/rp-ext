@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "wch-4.4.180plus-broadwell.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/releases/wch-4.4.180plus-broadwell.tgz",
+      "sha256": "ddd9673842927704982243c272cd04dd5d405782be15217a0b714a1aa001cb4f",
+      "packed": true
+    },
+    {
+      "name": "check-wch.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/src/check-wch.sh",
+      "sha256": "12589cd7d0b5da3f672abe811096920bf00ce9cb0c71a636ca0c7d44c0b52395",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "wch.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-wch.sh"
+  }
+
+}

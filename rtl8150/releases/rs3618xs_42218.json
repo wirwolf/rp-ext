@@ -1,0 +1,29 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "rtl8150-4.4.180plus-broadwell.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtl8150/releases/rtl8150-4.4.180plus-broadwell.tgz",
+      "sha256": "5b85ecca3bcf7366be8448957fef63ffc932af2597331af2e170226a1644816e",
+      "packed": true
+    },
+    {
+      "name": "check-rtl8150.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtl8150/src/check-rtl8150.sh",
+      "sha256": "12e2c4767ae35ed2e7b5c752d47f6e7dcd441380f976be5d361a2c47d20483df",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "usbcore.ko": "",
+    "usb-common.ko": "",
+    "rtl8150.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-rtl8150.sh"
+  }
+
+}
