@@ -17,13 +17,12 @@
   ],
 
   "kmods": {
-    "mii.ko": "",
+    "asix.ko":"",    
     "libphy.ko": "",
+    "mii.ko": "",
     "usbnet.ko": "",
     "usbcore.ko": "",
-    "mii": "",
-    "usb-common.ko": "",
-    "asix.ko":""
+    "usb-common.ko": ""
   },
 
     "scripts": {
