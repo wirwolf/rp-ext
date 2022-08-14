@@ -20,7 +20,6 @@
     "usbnet.ko": "",
     "usbcore.ko": "",
     "mii.ko": "",
-    "mii": "",
     "usb-common.ko": "",
     "dm9601.ko":""
   },
