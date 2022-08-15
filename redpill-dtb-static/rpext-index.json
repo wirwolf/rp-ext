@@ -11,12 +11,14 @@
   "releases": {
     "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
-    "ds1520p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",    
+    "ds1520p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "dva1622_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds1621p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds1621p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds2422p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
-    "ds2422p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json"
+    "ds2422p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3413xsp_42661.json"
   }
 }

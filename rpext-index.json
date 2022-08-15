@@ -32,8 +32,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/3w-sas/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -70,8 +72,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139cp/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -108,8 +112,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/8139too/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -146,8 +152,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aacraid/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -184,8 +192,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/aic94xx/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -222,8 +232,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/alx/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -260,7 +272,9 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/arcmsr/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/arcmsr/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/arcmsr/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/arcmsr/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/arcmsr/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -297,8 +311,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/asix/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -335,8 +351,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1c/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -373,8 +391,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1e/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -411,8 +431,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl1/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -449,8 +471,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atl2/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -487,8 +511,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/atlantic/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -525,8 +551,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ax88179_178a/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -563,8 +591,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/be2net/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -601,8 +631,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bna/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -639,8 +671,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -677,8 +711,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/bnx2x/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -715,8 +751,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb3/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -753,8 +791,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -791,8 +831,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4vf/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -829,8 +871,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -867,8 +911,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dm9601/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -905,8 +951,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000e/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -943,8 +991,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/e1000/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -962,7 +1012,9 @@
     "ds3615xs_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/early-telnet/recipes/universal.json",
     "fs2500_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/early-telnet/recipes/universal.json",
     "ds1621xsp_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds918p_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/early-telnet/recipes/universal.json"
+    "ds918p_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/early-telnet/recipes/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -999,8 +1051,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/forcedeth/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1037,8 +1091,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hpsa/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1075,7 +1131,9 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hv_netvsc/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hv_netvsc/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hv_netvsc/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hv_netvsc/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/hv_netvsc/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1112,8 +1170,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/i40e/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1150,8 +1210,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/iavf/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1188,8 +1250,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1226,8 +1290,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1264,8 +1330,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1279,7 +1347,9 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds3615xs_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe.vanilla/releases/ds3615xs_42218.json"
+    "ds3615xs_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe.vanilla/releases/ds3615xs_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1316,8 +1386,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbevf/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1354,8 +1426,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/megaraid_sas/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1392,8 +1466,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1430,7 +1506,9 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1467,8 +1545,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt2sas/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1505,8 +1585,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mpt3sas/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1543,8 +1625,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptsas/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1581,8 +1665,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mptspi/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1619,7 +1705,9 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mvsas/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mvsas/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mvsas/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mvsas/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mvsas/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1656,7 +1744,9 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nct6775/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nct6775/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nct6775/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nct6775/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nct6775/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1693,8 +1783,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1731,8 +1823,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1769,8 +1863,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1807,8 +1903,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8125/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1845,8 +1943,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8152/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1883,8 +1983,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8168/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1921,8 +2023,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8169/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1940,7 +2044,9 @@
     "ds3615xs_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/raspbi-pill/recipes/universal.json",
     "fs2500_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/raspbi-pill/recipes/universal.json",
     "ds1621xsp_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/raspbi-pill/recipes/universal.json",
-    "ds918p_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/raspbi-pill/recipes/universal.json"
+    "ds918p_42218": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/raspbi-pill/recipes/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -1976,13 +2082,14 @@
     "ds1621p_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds2422p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds2422p_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
-    "ds2422p_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "dva3221_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "dva3221_42621": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "dva3221_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "ds3622xsp_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
     "fs2500_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
-    "ds3622xsp_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json"
+    "ds3622xsp_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2004,7 +2111,6 @@
     "ds1621p_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "ds2422p_42218": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "ds2422p_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
-    "ds2422p_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "ds3622xsp_42218": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "fs2500_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "ds3622xsp_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
@@ -2023,7 +2129,9 @@
     "ds1621xsp_42218": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "ds918p_42218": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
     "ds1621xsp_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
-    "ds918p_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json"
+    "ds918p_42661": "https://github.com/RedPill-TTG/redpill-boot-wait/raw/master/recipes/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2061,7 +2169,9 @@
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/releases/ds918p_42218.json",
     "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/releases/ds920p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2098,8 +2208,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2136,8 +2248,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sfc/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2174,8 +2288,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/skge/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2212,8 +2328,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sky2/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2226,24 +2344,26 @@
     "help_url": "https://github.com/PeterSuh-Q3/rp-ext/tcrp-diag"
   },
   "releases": {
-	"rs4021xsp_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "dva3219_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3615xs_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "rs4021xsp_42661":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "fs2500_42218":        "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds1621xsp_42218":        "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds918p_42218":        "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "rs4021xsp_42218u2":    "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3617xs_25556":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3617xs_25556u2":    "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3617xs_42218":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "dva3219_42661":      "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3617xs_42218u2":    "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "dva3221_42218":       "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "dva3221_42621":       "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds1621p_42218":       "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "fs2500_42661":     "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
-    "ds3622xsp_42218":     "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json"
+    "rs4021xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "dva3219_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds3615xs_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "rs4021xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "fs2500_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds1621xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "rs4021xsp_42218u2": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds3617xs_25556": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds3617xs_25556u2": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds3617xs_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "dva3219_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds3617xs_42218u2": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "dva3221_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "dva3221_42621": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds1621p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "fs2500_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "ds3622xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tcrp-diag/releases/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2280,8 +2400,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tg3/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2318,8 +2440,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/tn40xx/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2356,8 +2480,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/v9fs/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2394,8 +2520,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-rhine/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2432,8 +2560,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/via-velocity/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2470,8 +2600,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmw_pvscsi/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2508,8 +2640,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vmxnet3/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2546,8 +2680,10 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/vxge/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }
 {
@@ -2584,7 +2720,9 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds1520p_42218.json",
-"ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds920p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds920p_42218.json"
+    "ds920p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds920p_42218.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/wch/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/releases/rs3413xsp_42661.json"
   }
 }

@@ -32,6 +32,8 @@
     "ds1621xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds1621xsp_42218.json",
     "ds918p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds918p_42218.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds1520p_42218.json",
-    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds920p_42218.json"
+    "ds920p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/ds920p_42218.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mlx5_core/releases/rs3413xsp_42661.json"
   }
 }

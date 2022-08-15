@@ -18,7 +18,9 @@
     "ds2422p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
     "ds1520p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
     "ds1520p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
-    "fs2500_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",       
-    "fs2500_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json"
+    "fs2500_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
+    "fs2500_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
+    "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/releases/rs3413xsp_42218.json",
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/releases/rs3413xsp_42661.json"
   }
 }
