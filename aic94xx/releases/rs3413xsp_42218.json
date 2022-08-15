@@ -1,0 +1,28 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "aic94xx-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/releases/aic94xx-3.10.108.tgz",
+      "sha256": "f06e866ea2a81a16d155ad8de7dd6035c4e8cc4a2f212fcbdcb8412218bebc34",
+      "packed": true
+    },
+    {
+      "name": "check-aic94xx.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/src/check-aic94xx.sh",
+      "sha256": "93427adcc1a091c8f23b15e58c8fc9df2218a67af74a5f160ba0a667274af765",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "libsas.ko": "",
+    "aic94xx.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-aic94xx.sh"
+  }
+
+}

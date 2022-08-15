@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "mpt2sas-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/releases/mpt2sas-3.10.108.tgz",
+      "sha256": "d262cd222d61ae9dee83971e92c2ac240538fd475d360bfd1f1d7e968f59b4f1",
+      "packed": true
+    },
+    {
+      "name": "check-mpt2sas.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/src/check-mpt2sas.sh",
+      "sha256": "e490b2507e421a44e5651c7db2de87330684c964edde432819bbb9da8abd6b66",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "mpt2sas.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-mpt2sas.sh"
+  }
+
+}

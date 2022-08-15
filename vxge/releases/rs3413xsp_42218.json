@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "vxge-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vxge/releases/vxge-3.10.108.tgz",
+      "sha256": "99fdacb8195053e62d8d3fffc1095472cd620e50077e39dd12701df39b243735",
+      "packed": true
+    },
+    {
+      "name": "check-vxge.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vxge/src/check-vxge.sh",
+      "sha256": "754ab592f794a7fcb76506494e2decfffdb84d0f998653e942f0713b9c3f524a",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "vxge.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-vxge.sh"
+  }
+
+}

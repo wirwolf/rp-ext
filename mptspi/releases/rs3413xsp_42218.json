@@ -1,0 +1,30 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "mptspi-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/releases/mptspi-3.10.108.tgz",
+      "sha256": "8531a0260b83b9d6dea7d3b5ef594e7b9c4a59e8ef063bcc9f107932308a173d",
+      "packed": true
+    },
+    {
+      "name": "check-mptspi.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/src/check-mptspi.sh",
+      "sha256": "1777fa35e08a126deca036aea43f414d035fa28e7048d013464c049f231aa7db",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "mptbase.ko": "",
+    "mptscsih.ko": "",
+    "scsi_transport_spi.ko": "",
+    "mptspi.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-mptspi.sh"
+  }
+
+}

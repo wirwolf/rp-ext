@@ -1,0 +1,20 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "redpill-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/releases/redpill-3.10.108.tgz",
+      "sha256": "c6f72ed7227231d4664a95fb06ca9aa7e89631e28700a6b1de3cf92158a8f32b",
+      "packed": true
+    }
+ ],
+
+  "kmods": {
+    "redpill.ko": ""
+  },
+
+    "scripts": {
+  }
+
+}

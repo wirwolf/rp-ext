@@ -1,0 +1,29 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "mptsas-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/releases/mptsas-3.10.108.tgz",
+      "sha256": "59759e3b4c127d946f9a2fa27ebc9e48f0c888f5c446fccda7ed3e435223cf88",
+      "packed": true
+    },
+    {
+      "name": "check-mptsas.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/src/check-mptsas.sh",
+      "sha256": "ee1e7c249fc081e09a97837877087b154fa4ef468cbc5605eb49ade2c72e4f34",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "mptbase.ko": "",
+    "mptscsih.ko": "",
+    "mptsas.ko":""
+  },
+
+    "scripts": {
+    "on_boot": "check-mptsas.sh"
+  }
+
+}
