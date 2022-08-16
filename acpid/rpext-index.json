@@ -22,6 +22,6 @@
     "ds3622xsp_42218": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v7_broadwellnk.json",
     "ds3622xsp_42661": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v7.1_broadwellnk.json",
     "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/releases/rs3413xsp_42218.json",
-    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/releases/rs3413xsp_42661.json"
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/releases/rs3413xsp_42218.json"
   }
 }
