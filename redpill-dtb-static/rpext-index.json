@@ -19,6 +19,22 @@
     "ds2422p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "ds2422p_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/recipes/universal.json",
     "rs3413xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3413xsp_42218.json",
-    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3413xsp_42218.json"
+    "rs3413xsp_42661": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3413xsp_42218.json",
+    "ds3617xs_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds3617xs_42962.json",
+    "ds918p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds918p_42962.json",
+    "ds3615xs_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds3615xs_42962.json",
+    "ds3622xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds3622xsp_42962.json",
+    "dva3221_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/dva3221_42962.json",
+    "ds920p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds920p_42962.json",
+    "ds1621p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds1621p_42962.json",
+    "ds2422p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds2422p_42962.json",
+    "dva1622_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/dva1622_42962.json",
+    "ds1520p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds1520p_42962.json",
+    "fs2500_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/fs2500_42962.json",
+    "ds1621xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/ds1621xsp_42962.json",
+    "rs4021xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs4021xsp_42962.json",
+    "dva3219_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/dva3219_42962.json",
+    "rs3618xs_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3618xs_42962.json",
+    "rs3413xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-dtb-static/releases/rs3413xsp_42962.json"
   }
 }
