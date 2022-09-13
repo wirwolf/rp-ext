@@ -56,6 +56,8 @@
     "rs4021xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/rs4021xsp_42218.json",
     "dva3219_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/dva3219_42218.json",
     "rs3618xs_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/rs3618xs_42218.json",
-    "rs3413xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/rs3413xsp_42218.json"
+    "rs3413xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/rs3413xsp_42218.json",
+    "ds1019p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds1019p_42218.json",
+    "ds1019p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/cxgb4/releases/ds1019p_42218.json"
   }
 }
