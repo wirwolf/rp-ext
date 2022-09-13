@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "mpt3sas-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/mpt3sas-4.4.180plus.tgz",
-      "sha256": "0c8a5e5f73e68b4e3664b71ac04627fc66bd9fb6f1651bf12e4a4b3b88564693",
+      "name": "mpt3sas-4.4.180plus-geminilake.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/mpt3sas-4.4.180plus-geminilake.tgz",
+      "sha256": "367dbd698ce5dd14b2bf46a5615ebd9a26e46d3e6f5294fd9ebaf1c810324d64",
       "packed": true
     },
     {
