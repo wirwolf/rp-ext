@@ -7,7 +7,7 @@
     "author_url": "https://github.com/pocopico",
     "packer_url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid",
     "help_url": "<todo>"
-  }
+  },
   "releases": {
     "ds1019p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/ds918p_42218.json",
     "ds1019p_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/ds918p_42218.json",
