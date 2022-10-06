@@ -108,7 +108,7 @@ Extension Name: "Early telnet start" Description : "Simple extension which start
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/raspbi-pill/rpext-index.json">LINK</a><br>
 Extension Name: "redpill" Description : "Adds  Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill/rpext-index.json">LINK</a><br>
-Extension Name: "ACPI Daemon v2" Description : "ACPI Daemon v2 that handles power button events (jumkey)"
+Extension Name: "ACPI Daemon v3" Description : "ACPI Daemon v3 that handles power button events (new pocopico)"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-acpid/rpext-index.json">LINK</a><br>
 Extension Name: "RedPill Bootwait" Description : "Simple extension which stops the execution early waiting for the boot device to appear"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-boot-wait/rpext-index.json">LINK</a><br>
