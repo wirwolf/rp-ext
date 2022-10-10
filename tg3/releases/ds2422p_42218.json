@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "tg3-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/tg3-3.10.108.tgz",
-      "sha256": "4d0078e68fa28d7b2cf4b694a974aff9297916aee1a671c59422cccf995174e7",
+      "name": "tg3-4.4.180plus-v1000.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/releases/tg3-4.4.180plus-v1000.tgz",
+      "sha256": "eb70113172f63e048ebbed21f775b647f07b12e7c17b8476cda09fc755a1ae22",
       "packed": true
     },
     {
@@ -17,8 +17,7 @@
   ],
 
   "kmods": {
-    "libphy.ko": "",
-    "tg3.ko":""
+    "tg3.ko": ""
   },
 
     "scripts": {
