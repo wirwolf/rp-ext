@@ -42,6 +42,7 @@
     "rs3618xs_42962": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v7.1_broadwell.json",
     "rs3413xsp_42962": "https://github.com/jimmyGALLAND/redpill-ext/raw/master/acpid/recipes/v7_bromolow.json",
     "ds1019p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/releases/ds1019p_42218.json",
-    "ds1019p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/releases/ds1019p_42218.json"
+    "ds1019p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/acpid/releases/ds1019p_42218.json",
+    "zendofmodel": "endofurls"
   }
 }

@@ -39,6 +39,7 @@
     "rs3618xs_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
     "rs3413xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
     "ds1019p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
-    "ds1019p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json"
+    "ds1019p_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/dtbpatch/recipes/universal.json",
+    "zendofmodel": "endofurls"
   }
 }

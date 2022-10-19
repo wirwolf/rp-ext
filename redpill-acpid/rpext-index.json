@@ -59,6 +59,7 @@
     "dva3219_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/dva3221_42218.json",
     "dva3219_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/dva3221_42218.json",
     "dva3219_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/dva3221_42218.json",
-    "endofmodel": "endofurls"  
+    "endofmodel": "endofurls",
+    "zendofmodel": "endofurls"
   }
 }
