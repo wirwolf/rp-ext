@@ -4,8 +4,8 @@
   "info": {
     "name": "rtc-cmos",
     "description": "Adds Driver for PC-style 'CMOS' RTCs Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/rtc-cmos",
+    "author_url": "https://github.com/PeterSuh-Q3",
+    "packer_url": "https://github.com/PeterSuh-Q3/rp-ext/tree/main/rtc-cmos",
     "help_url": "<todo>"
   },
   "releases": {
