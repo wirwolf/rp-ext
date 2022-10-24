@@ -114,6 +114,8 @@ Extension Name: "ACPI Daemon v3" Description : "ACPI Daemon v3 that handles powe
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-acpid/rpext-index.json">LINK</a><br>
 Extension Name: "RedPill Bootwait" Description : "Simple extension which stops the execution early waiting for the boot device to appear"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-boot-wait/rpext-index.json">LINK</a><br>
+Extension Name: "rtc-cmos" Description : "Adds for scheduled power on"
+<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtc-cmos/rpext-index.json">LINK</a><br>
 Extension Name: "rtl8150" Description : "Adds rtl8150 based usb-ethernet driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rtl8150/rpext-index.json">LINK</a><br>
 Extension Name: "sfc" Description : "Adds  Support"
