@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "rtc-cmos-4.4.59plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtc-cmos/releases/rtc-cmos-4.4.59plus.tgz",
-      "sha256": "2d5d88483677d1a0df7630e3c9f4612d8ba318b5dca64f655a85a844712f5014",
+      "name": "rtc-cmos-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtc-cmos/releases/rtc-cmos-4.4.180plus.tgz",
+      "sha256": "e04b0adee58f8274ccc8176340ad75867e232631ba5244a8732ad5197c006846",
       "packed": true
     },
       {
@@ -17,7 +17,7 @@
      {
       "name": "install-rtcwake.sh",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtc-cmos/src/install-rtcwake.sh",
-      "sha256": "b8627bd98998b45fa9367bb2d061476185bcd3ebe433a96644a0349a7531d4a1",
+      "sha256": "46ed4d176026f12f54a7ce6342bb0b3527ab0b191612881bbdc338734e320d17",
       "packed": false
     },
     {
