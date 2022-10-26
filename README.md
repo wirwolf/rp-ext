@@ -68,6 +68,8 @@ Extension Name: "igb" Description : "Adds Intel(R) Gigabit Ethernet Network Driv
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/rpext-index.json">LINK</a><br>
 Extension Name: "igbvf" Description : "Adds Intel(R) Gigabit Virtual Function Network Driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igbvf/rpext-index.json">LINK</a><br>
+Extension Name: "igc" Description : "Adds Intel(R) 2.5G Ethernet Network Driver Support"
+<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igc/rpext-index.json">LINK</a><br>
 Extension Name: "ixgbe" Description : "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/ixgbe/rpext-index.json">LINK</a><br>
 Extension Name: "ixgbe.vanilla" Description : "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support"
