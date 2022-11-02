@@ -3,9 +3,9 @@
   "info": {
     "author_url": "https://github.com/PeterSuh-Q3",
     "description": "Adds low-level driver for NVIDIA nForce SATA controller Support",
-    "help_url": "<todo>"
+    "help_url": "<todo>",
     "name": "sata_nv",
-    "packer_url": "https://github.com/PeterSuh-Q3/rp-ext/tree/main/sata_nv",
+    "packer_url": "https://github.com/PeterSuh-Q3/rp-ext/tree/main/sata_nv"
 
   },
   "releases": {
