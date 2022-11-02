@@ -38,6 +38,6 @@
     "rs4021xsp_42218": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sata_nv/releases/rs4021xsp_42218.json",
     "rs4021xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sata_nv/releases/rs4021xsp_42218.json",
     "zendofmodel": "endofurls"
-  }
-  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sata_nv/rpext-index.json",
+  },
+  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/sata_nv/rpext-index.json"
 }
