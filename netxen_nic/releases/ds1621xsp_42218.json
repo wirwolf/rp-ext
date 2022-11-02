@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "netxen_nic-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/netxen_nic/releases/netxen_nic-3.10.108.tgz",
-      "sha256": "db7de94ef8d8ca6953c0cfb9322e9a4fa7ac1b4c3ca0e6edf145b55c00729fca",
+      "name": "netxen_nic-4.4.180plus-broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/netxen_nic/releases/netxen_nic-4.4.180plus-broadwellnk.tgz",
+      "sha256": "0adbf1ee2d358e81925e4fc2a948ddc79e35d611202dec77b3574632ddd6e03f",
       "packed": true
     },
     {
