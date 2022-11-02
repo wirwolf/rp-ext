@@ -94,14 +94,12 @@ Extension Name: "mvsas" Description : "Adds Marvell 88SE6440 SAS/SATA controller
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/mvsas/rpext-index.json">LINK</a><br>
 Extension Name: "nct6775" Description : "Adds Driver for NCT6775F and compatible chips Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nct6775/rpext-index.json">LINK</a><br>
-Extension Name: "powersched" Description : "Adds Driver for PC-style 'CMOS' RTCs Support"
-<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/powersched/rpext-index.json">LINK</a><br>
-Extension Name: "qla2xxx" Description : "Adds  Support"
+Extension Name: "netxen_nic" Description : "Adds QLogic 1/10 GbE Converged/Intelligent Ethernet Driver Support"
+<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/netxen_nic/rpext-index.json">LINK</a><br>
+Extension Name: "qla2xxx" Description : "Adds QLogic Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qla2xxx/rpext-index.json">LINK</a><br>
 Extension Name: "qlcnic" Description : "Adds QLogic 1/10 GbE Converged/Intelligent Ethernet Driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/qlcnic/rpext-index.json">LINK</a><br>
-Extension Name: "netxen_nic" Description : "Adds QLogic 1/10 GbE Converged/Intelligent Ethernet Driver Support"
-<a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/netxen_nic/rpext-index.json">LINK</a><br>
 Extension Name: "r8101" Description : "Adds RealTek RTL-8101 Fast Ethernet driver Support"
 <a href="https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/r8101/rpext-index.json">LINK</a><br>
 Extension Name: "r8125" Description : "Adds Realtek RTL8125 2.5Gigabit Ethernet driver Support"
