@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "sata_nv-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sata_nv/releases/sata_nv-3.10.108.tgz",
-      "sha256": "a039b978dbedbe72057f27dca02704ed3e7e7ec757e64bd8ec29211240b68a57",
+      "name": "sata_nv-4.4.180plus-geminilake.tgz",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sata_nv/releases/sata_nv-4.4.180plus-geminilake.tgz",
+      "sha256": "5718ed6a363da4c96ff620d78a6cf2d7a3b0a35d003e339f176d9518d78c35c0",
       "packed": true
     },
     {
