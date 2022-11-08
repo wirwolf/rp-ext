@@ -94,7 +94,7 @@ function getvars() {
     esac
 }
 
-function preparedetect(){
+function preparedetect() {
 
 echo "Copying all-modules auxiliary files to /sbin/"
 /bin/cp -v jq /usr/sbin/  ; chmod 700 /usr/sbin/jq
