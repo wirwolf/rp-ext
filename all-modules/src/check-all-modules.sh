@@ -1,10 +1,105 @@
+#!/bin/bash
 #
 # Checking modules is loaded
 #
 
-echo -n "Loading module igc -> "
+function matchpciidmodule() {
 
-if [ `/sbin/lsmod |grep -i igc|wc -l` -gt 0 ] ; then
-        echo "Module igc loaded succesfully"
-        else echo "Module igc is not loaded "
-fi
+    vendor="$(echo $1 | sed 's/[a-z]/\U&/g')"
+    device="$(echo $2 | sed 's/[a-z]/\U&/g')"
+
+    pciid="${vendor}d0000${device}"
+
+    #jq -e -r ".modules[] | select(.alias | test(\"(?i)${1}\")?) |   .name " modules.alias.json
+    # Correction to work with tinycore jq
+    matchedmodule=$(jq -e -r ".modules[] | select(.alias | contains(\"${pciid}\")?) | .name " $MODULE_ALIAS_FILE)
+
+    # Call listextensions for extention matching
+
+    echo "$matchedmodule"
+
+    listextension $matchedmodule
+
+}
+
+function listpci() {
+
+    lspci -n | while read line; do
+
+        bus="$(echo $line | cut -c 1-7)"
+        class="$(echo $line | cut -c 9-12)"
+        vendor="$(echo $line | cut -c 15-18)"
+        device="$(echo $line | cut -c 20-23)"
+
+        #echo "PCI : $bus Class : $class Vendor: $vendor Device: $device"
+        case $class in
+        0100)
+            echo "Found SCSI Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        0106)
+            echo "Found SATA Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        0101)
+            echo "Found IDE Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        0107)
+            echo "Found SAS Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        0200)
+            echo "Found Ethernet Interface : pciid ${vendor}d0000${device} Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        0300)
+            echo "Found VGA Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        0c04)
+            echo "Found Fibre Channel Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
+            ;;
+        esac
+    done
+
+}
+
+function listextension() {
+
+    if [ ! -z $1 ]; then
+        echo "Searching for matching extension for $1"
+        matchingextension=($(jq ". | select(.id | endswith(\"${1}\")) .url  " rpext-index.json))
+
+        if [ ! -z $matchingextension ]; then
+            echo "Found matching extension : "
+            echo $matchingextension
+            ./redpill-load/ext-manager.sh add "${matchingextension//\"/}"
+        fi
+
+        extensionslist+="${matchingextension} "
+        #echo $extensionslist
+    else
+        echo "No matching extension"
+    fi
+
+}
+
+function getvars() {
+
+    case $TARGET_PLATFORM in
+
+    bromolow)
+        KERNEL_MAJOR="3"
+        MODULE_ALIAS_FILE="modules.alias.3.json"
+        ;;
+    apollolake | broadwell | broadwellnk | v1000 | denverton | geminilake | dva1622 | ds2422p | rs4021xsp | *)
+        KERNEL_MAJOR="4"
+        MODULE_ALIAS_FILE="modules.alias.4.json"
+        ;;
+    esac
+}
+
+getvars
+listpci
+
+#echo -n "Loading module igc -> "
+
+#if [ `/sbin/lsmod |grep -i igc|wc -l` -gt 0 ] ; then
+#        echo "Module igc loaded succesfully"
+#        else echo "Module igc is not loaded "
+#fi
