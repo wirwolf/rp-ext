@@ -15,12 +15,6 @@
       "packed": false
     },
     {
-      "name": "jq",
-      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/jq",
-      "sha256": "e7b2c9a277f9695c8607d28686245f68721d327d6c495b366420b0d87e83cff8",
-      "packed": false
-    },     
-    {
       "name": "lspci",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/lspci",
       "sha256": "bca51106be079ca67bbe593f65afedc34d888a16943cf46bf0cb666fae742822",
@@ -60,12 +54,6 @@
       "name": "modules.alias.4.json",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/modules.alias.4.json",
       "sha256": "8fb27b89d6816a6b4a250e0b36388808ebfb65dca5b9b91ce93a1e1edc44f729",
-      "packed": false
-    },    
-    {
-      "name": "rpext-index.json",
-      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/rpext-index.json",
-      "sha256": "195e8d2164094660c7ae63993da66ee075640377b53825b3ae1554f9bdbfbce8",
       "packed": false
     }
   ],
