@@ -10,7 +10,7 @@
     },
     {
       "name": "check-all-modules.sh",
-      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igc/src/check-all-modules.sh",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/src/check-all-modules.sh",
       "sha256": "4892e37cc4f974700b88332e005d61676257876938f8e57677c655a2eca5a8ef",
       "packed": false
     }
