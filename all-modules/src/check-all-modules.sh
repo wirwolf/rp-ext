@@ -66,7 +66,7 @@ function listextension() {
         if [ ! -z $matchingextension ]; then
             echo "Found matching extension : "
             echo $matchingextension
-            ./redpill-load/ext-manager.sh add "${matchingextension//\"/}"
+            echo "${matchingextension}"
         fi
 
         extensionslist+="${matchingextension} "
