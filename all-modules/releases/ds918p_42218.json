@@ -49,7 +49,7 @@
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/libz.so.1",
       "sha256": "7576fa0125da424b10c76fb4aaf14f00dc921b7b0989e8cb00189aed720a14f4",
       "packed": false
-    }
+    },
     {
       "name": "modules.alias.3.json",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/modules.alias.3.json",
