@@ -61,18 +61,8 @@ function listextension() {
 
     if [ ! -z $1 ]; then
         echo "Searching for matching extension for $1"
-        tar xvfzp $TARGET_PLATFORM-$LINUX_VER.tgz $1.ko
-        insmod $1.ko
-#        matchingextension=($(jq ". | select(.id | endswith(\"${1}\")) .url  " rpext-index.json))
-
-#        if [ ! -z $matchingextension ]; then
-#            echo "Found matching extension : "
-#            echo $matchingextension
-#            echo "${matchingextension}"
-#        fi
-
-#        extensionslist+="${matchingextension} "
-#        echo $extensionslist
+        tar xvfzp ${TARGET_PLATFORM}-${LINUX_VER}.tgz ${1}.ko
+        insmod ${1}.ko
     else
         echo "No matching extension"
     fi
