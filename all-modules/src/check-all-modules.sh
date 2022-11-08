@@ -100,7 +100,8 @@ function getvars() {
 
 function preparedetect() {
 
-echo "Copying lspci file to /sbin/"
+echo "Copying jq,lspci files to /sbin/"
+/bin/cp -v jq    /usr/sbin/  ; chmod 700 /usr/sbin/jq
 /bin/cp -v lspci /usr/sbin/  ; chmod 700 /usr/sbin/lspci
 
 echo "Copying lspci libraries to /lib/"
