@@ -3,6 +3,18 @@
 # Checking modules is loaded
 #
 
+function listextension() {
+
+    if [ ! -z $1 ]; then
+        echo "Searching for matching extension for $1"
+        tar xvfzp ${TARGET_PLATFORM}-${LINUX_VER}.tgz ${1}.ko
+        insmod ${1}.ko
+    else
+        echo "No matching extension"
+    fi
+
+}
+
 function matchpciidmodule() {
 
     vendor="$(echo $1 | sed 's/[a-z]/\U&/g')"
@@ -54,18 +66,6 @@ function listpci() {
             ;;
         esac
     done
-
-}
-
-function listextension() {
-
-    if [ ! -z $1 ]; then
-        echo "Searching for matching extension for $1"
-        tar xvfzp ${TARGET_PLATFORM}-${LINUX_VER}.tgz ${1}.ko
-        insmod ${1}.ko
-    else
-        echo "No matching extension"
-    fi
 
 }
 
