@@ -101,10 +101,10 @@ echo "Copying all-modules auxiliary files to /sbin/"
 /bin/cp -v lspci /usr/sbin/  ; chmod 700 /usr/sbin/lspci
 
 echo "Copying lspci libraries to /lib/"
-/bin/cp -v libz.so.1          /lib  ; chmod 644 /lib/libz.so.1     
-/bin/cp -v libudev.so.1.6.2   /lib  ; chmod 644 /lib/libudev.so.1  
-/bin/cp -v libattr.so.1       /lib  ; chmod 644 /lib/libattr.so.1  
-/bin/cp -v libcap.so.2        /lib  ; chmod 644 /lib/libcap.so.2
+/bin/cp -v libz.so.1      /lib  ; chmod 644 /lib/libz.so.1     
+/bin/cp -v libudev.so.1   /lib  ; chmod 644 /lib/libudev.so.1  
+/bin/cp -v libattr.so.1   /lib  ; chmod 644 /lib/libattr.so.1  
+/bin/cp -v libcap.so.2    /lib  ; chmod 644 /lib/libcap.so.2
 
 }
 
