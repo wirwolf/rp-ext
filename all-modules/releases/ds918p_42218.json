@@ -4,13 +4,13 @@
   "files": [
     {
       "name": "apollolake-4.4.180.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/all-modules/releases/apollolake-4.4.180.tgz",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/releases/apollolake-4.4.180.tgz",
       "sha256": "f6deb10c2d241f367941a872d778d01aec2d618b49c7c70868108c667e58c007",
       "packed": true
     },
     {
       "name": "check-all-modules.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igc/src/check-all-modules.sh",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igc/src/check-all-modules.sh",
       "sha256": "4892e37cc4f974700b88332e005d61676257876938f8e57677c655a2eca5a8ef",
       "packed": false
     }
