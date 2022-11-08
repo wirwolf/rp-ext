@@ -10,8 +10,6 @@ function matchpciidmodule() {
 
     pciid="${vendor}d0000${device}"
 
-    #jq -e -r ".modules[] | select(.alias | test(\"(?i)${1}\")?) |   .name " modules.alias.json
-    # Correction to work with tinycore jq
     matchedmodule=$(jq -e -r ".modules[] | select(.alias | contains(\"${pciid}\")?) | .name " $MODULE_ALIAS_FILE)
 
     # Call listextensions for extention matching
@@ -72,7 +70,7 @@ function listextension() {
         fi
 
         extensionslist+="${matchingextension} "
-        #echo $extensionslist
+        echo $extensionslist
     else
         echo "No matching extension"
     fi
@@ -81,13 +79,15 @@ function listextension() {
 
 function getvars() {
 
+    TARGET_PLATFORM="$(/bin/cat /proc/syno_platform)"
+
     case $TARGET_PLATFORM in
 
-    bromolow)
+    BROMOLOW)
         KERNEL_MAJOR="3"
         MODULE_ALIAS_FILE="modules.alias.3.json"
         ;;
-    apollolake | broadwell | broadwellnk | v1000 | denverton | geminilake | dva1622 | ds2422p | rs4021xsp | *)
+    APOLLOLAKE | BROADWELL | BROADWELLNK | V1000 | DENVERTON | GEMINILAKE | *)
         KERNEL_MAJOR="4"
         MODULE_ALIAS_FILE="modules.alias.4.json"
         ;;
