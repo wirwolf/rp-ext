@@ -61,6 +61,8 @@ function listextension() {
 
     if [ ! -z $1 ]; then
         echo "Searching for matching extension for $1"
+        tar xvfzp $TARGET_PLATFORM-$LINUX_VER.tgz $1.ko
+        insmod $1.ko
 #        matchingextension=($(jq ". | select(.id | endswith(\"${1}\")) .url  " rpext-index.json))
 
 #        if [ ! -z $matchingextension ]; then
@@ -79,15 +81,17 @@ function listextension() {
 
 function getvars() {
 
-    TARGET_PLATFORM="$(/bin/cat /proc/syno_platform)"
+    TARGET_PLATFORM="$(uname -u | cut -d '_' -f2)"
+    
+    LINUX_VER="$(uname -r | cut -d '+' -f1)"
 
     case $TARGET_PLATFORM in
 
-    BROMOLOW)
+    bromolow)
         KERNEL_MAJOR="3"
         MODULE_ALIAS_FILE="modules.alias.3.json"
         ;;
-    APOLLOLAKE | BROADWELL | BROADWELLNK | V1000 | DENVERTON | GEMINILAKE | *)
+    apollolake | broadwell | broadwellnk | v1000 | denverton | geminilake | *)
         KERNEL_MAJOR="4"
         MODULE_ALIAS_FILE="modules.alias.4.json"
         ;;
@@ -96,8 +100,7 @@ function getvars() {
 
 function preparedetect() {
 
-echo "Copying all-modules auxiliary files to /sbin/"
-/bin/cp -v jq /usr/sbin/  ; chmod 700 /usr/sbin/jq
+echo "Copying lspci file to /sbin/"
 /bin/cp -v lspci /usr/sbin/  ; chmod 700 /usr/sbin/lspci
 
 echo "Copying lspci libraries to /lib/"
