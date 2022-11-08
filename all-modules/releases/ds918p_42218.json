@@ -69,8 +69,8 @@
       "packed": false
     }
   ],
-
-    "scripts": {
+  
+  "scripts": {
     "on_boot": "check-all-modules.sh"
   }
 
