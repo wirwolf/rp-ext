@@ -15,6 +15,12 @@
       "packed": false
     },
     {
+      "name": "jq",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/jq",
+      "sha256": "e7b2c9a277f9695c8607d28686245f68721d327d6c495b366420b0d87e83cff8",
+      "packed": false
+    },    
+    {
       "name": "lspci",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/lspci",
       "sha256": "bca51106be079ca67bbe593f65afedc34d888a16943cf46bf0cb666fae742822",
