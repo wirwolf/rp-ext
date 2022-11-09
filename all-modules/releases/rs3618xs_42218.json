@@ -15,6 +15,12 @@
       "packed": false
     },
     {
+      "name": "kmod",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/kmod",
+      "sha256": "c28321e57b8af57b04905a346b093182f74d2836ca188c5536b47e6459153938",
+      "packed": false
+    },       
+    {
       "name": "sed",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/sed",
       "sha256": "be9c9394fca38bac3412a1a9da1452e4dedb415a168a0329d86a1548df8ced7c",
