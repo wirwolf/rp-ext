@@ -32,14 +32,26 @@ function matchpciidmodule() {
 
 function listpci() {
 
-#In junior it appears after 5 bytes.
+#None DTC Platform in junior it appears after 5 bytes.
 
     lspci -n | while read line; do
 
-        bus="$(echo $line | cut -c 6-12)"
-        class="$(echo $line | cut -c 14-17)"
-        vendor="$(echo $line | cut -c 20-23)"
-        device="$(echo $line | cut -c 25-28)"
+        case $TARGET_PLATFORM in
+
+        geminilake | v1000 )
+            bus="$(echo $line | cut -c 1-7)"
+            class="$(echo $line | cut -c 9-12)"
+            vendor="$(echo $line | cut -c 15-18)"
+            device="$(echo $line | cut -c 20-23)"        
+            ;;
+        bromolow | apollolake | broadwell | broadwellnk | denverton | *)
+            bus="$(echo $line | cut -c 6-12)"
+            class="$(echo $line | cut -c 14-17)"
+            vendor="$(echo $line | cut -c 20-23)"
+            device="$(echo $line | cut -c 25-28)"
+            ;;
+        esac
+
 
         echo "PCI : $bus Class : $class Vendor: $vendor Device: $device"
         case $class in
