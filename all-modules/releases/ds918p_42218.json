@@ -11,9 +11,15 @@
     {
       "name": "check-all-modules.sh",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/src/check-all-modules.sh",
-      "sha256": "0103886470e51efa2f974667aeece0a42526fb0646b04696eb7a9fbde69e7222",
+      "sha256": "85697d5cdacf4dc86a02c71f1033ec41342bc6855261542a851f58f27c7eccf4",
       "packed": false
     },
+    {
+      "name": "sed",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/sed",
+      "sha256": "e7b2c9a277f9695c8607d28686245f68721d327d6c495b366420b0d87e83cff8",
+      "packed": false
+    },    
     {
       "name": "jq",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/jq",
