@@ -17,8 +17,8 @@ function listextension() {
 
 function matchpciidmodule() {
 
-    vendor="$(echo $1 | sed 's/[a-z]/\U&/g')"
-    device="$(echo $2 | sed 's/[a-z]/\U&/g')"
+    vendor=${1^^}
+    device=${2^^}
 
     pciid="${vendor}d0000${device}"
 
