@@ -17,9 +17,9 @@ function listextension() {
 
 function matchpciidmodule() {
 
-    vendor=${1^^}
-    device=${2^^}
-
+    vendor="$(echo $1 | sed 's/[a-z]/\U&/g')"
+    device="$(echo $2 | sed 's/[a-z]/\U&/g')"
+    
     pciid="${vendor}d0000${device}"
 
     matchedmodule=$(jq -e -r ".modules[] | select(.alias | contains(\"${pciid}\")?) | .name " $MODULE_ALIAS_FILE)
@@ -94,7 +94,8 @@ function getvars() {
 
 function preparedetect() {
 
-echo "Copying jq,lspci files to /sbin/"
+echo "Copying sed,jq,lspci files to /sbin/"
+/bin/cp -v sed    /usr/sbin/  ; chmod 700 /usr/sbin/sed
 /bin/cp -v jq    /usr/sbin/  ; chmod 700 /usr/sbin/jq
 /bin/cp -v lspci /usr/sbin/  ; chmod 700 /usr/sbin/lspci
 
