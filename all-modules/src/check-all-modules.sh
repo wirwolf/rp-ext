@@ -7,8 +7,7 @@ function listextension() {
 
     if [ ! -z $1 ]; then
         echo "Searching for matching extension for $1"
-        tar xvfzp ${TARGET_PLATFORM}-${LINUX_VER}.tgz ${1}.ko
-        insmod ${1}.ko
+        /usr/sbin/modprobe ${1}
     else
         echo "No matching extension"
     fi
@@ -106,8 +105,9 @@ function getvars() {
 
 function preparedetect() {
 
-echo "Copying sed,jq,lspci files to /sbin/"
-/bin/cp -v sed    /usr/sbin/  ; chmod 700 /usr/sbin/sed
+echo "Copying kmod,sed,jq,lspci files to /sbin/"
+/bin/cp -v kmod  /bin/       ; chmod 700 /bin/kmod
+/bin/cp -v sed   /usr/sbin/  ; chmod 700 /usr/sbin/sed
 /bin/cp -v jq    /usr/sbin/  ; chmod 700 /usr/sbin/jq
 /bin/cp -v lspci /usr/sbin/  ; chmod 700 /usr/sbin/lspci
 
@@ -117,6 +117,12 @@ echo "Copying lspci libraries to /lib/"
 /bin/cp -v libattr.so.1   /lib  ; chmod 644 /lib/libattr.so.1  
 /bin/cp -v libcap.so.2    /lib  ; chmod 644 /lib/libcap.so.2
 
+echo "link depmod, modprobe to kmod"
+ln -s /bin/kmod /usr/sbin/depmod
+ln -s /bin/kmod /usr/sbin/modprobe
+
+tar xvfz /exts/all-modules/${TARGET_PLATFORM}-${LINUX_VER}.tgz -C /lib/modules/
+/usr/sbin/depmod -a
 }
 
 getvars
