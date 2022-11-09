@@ -26,8 +26,6 @@ function matchpciidmodule() {
 
     # Call listextensions for extention matching
 
-    echo "$matchedmodule"
-
     listextension $matchedmodule
 
 }
@@ -41,7 +39,7 @@ function listpci() {
         vendor="$(echo $line | cut -c 15-18)"
         device="$(echo $line | cut -c 20-23)"
 
-        #echo "PCI : $bus Class : $class Vendor: $vendor Device: $device"
+        echo "PCI : $bus Class : $class Vendor: $vendor Device: $device"
         case $class in
         0100)
             echo "Found SCSI Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
@@ -72,8 +70,10 @@ function listpci() {
 function getvars() {
 
     TARGET_PLATFORM="$(uname -u | cut -d '_' -f2)"
-    
     LINUX_VER="$(uname -r | cut -d '+' -f1)"
+    
+    echo $TARGET_PLATFORM
+    echo $LINUX_VER
 
     case $TARGET_PLATFORM in
 
@@ -86,6 +86,8 @@ function getvars() {
         MODULE_ALIAS_FILE="modules.alias.4.json"
         ;;
     esac
+    
+    echo $MODULE_ALIAS_FILE
 }
 
 function preparedetect() {
