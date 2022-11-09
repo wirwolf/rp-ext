@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Checking modules is loaded
+# Inject modules detected
 #
 
 function listextension() {
@@ -32,19 +32,19 @@ function matchpciidmodule() {
 
 function listpci() {
 
-# Appears after 5 bytes, except for v1000 platforms in Junior.
+# Appears after 5 bytes, except for v1000,denverton platforms in Junior.
 
     lspci -n | while read line; do
 
         case $TARGET_PLATFORM in
 
-        v1000 )
+        v1000 | denverton )
             bus="$(echo $line | cut -c 1-7)"
             class="$(echo $line | cut -c 9-12)"
             vendor="$(echo $line | cut -c 15-18)"
             device="$(echo $line | cut -c 20-23)"        
             ;;
-        geminilake | bromolow | apollolake | broadwell | broadwellnk | denverton | *)
+        geminilake | bromolow | apollolake | broadwell | broadwellnk | *)
             bus="$(echo $line | cut -c 6-12)"
             class="$(echo $line | cut -c 14-17)"
             vendor="$(echo $line | cut -c 20-23)"
@@ -122,10 +122,3 @@ echo "Copying lspci libraries to /lib/"
 getvars
 preparedetect
 listpci
-
-#echo -n "Loading module igc -> "
-
-#if [ `/sbin/lsmod |grep -i igc|wc -l` -gt 0 ] ; then
-#        echo "Module igc loaded succesfully"
-#        else echo "Module igc is not loaded "
-#fi
