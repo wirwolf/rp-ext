@@ -1,0 +1,77 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "broadwellnk-4.4.180.tgz",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/releases/broadwellnk-4.4.180.tgz",
+      "sha256": "130f320269cd02dfca5b7bed1c9345212e4934c6a317d0e973274acc73781a64",
+      "packed": false
+    },
+    {
+      "name": "check-all-modules.sh",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/src/check-all-modules.sh",
+      "sha256": "b252ecb7de21b47607724e5c59185c7fbb74c3bb606663d94eb0be13f896f6a0",
+      "packed": false
+    },
+    {
+      "name": "sed",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/sed",
+      "sha256": "be9c9394fca38bac3412a1a9da1452e4dedb415a168a0329d86a1548df8ced7c",
+      "packed": false
+    },    
+    {
+      "name": "jq",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/jq",
+      "sha256": "e7b2c9a277f9695c8607d28686245f68721d327d6c495b366420b0d87e83cff8",
+      "packed": false
+    },    
+    {
+      "name": "lspci",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/lspci",
+      "sha256": "bca51106be079ca67bbe593f65afedc34d888a16943cf46bf0cb666fae742822",
+      "packed": false
+    }, 
+    {
+      "name": "libattr.so.1",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/libattr.so.1",
+      "sha256": "596f4a0a0722a04e3df1b831cc3900b55f176fa1006cc587d626b8f0ff60f79a",
+      "packed": false
+    },
+    {
+      "name": "libcap.so.2",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/libcap.so.2",
+      "sha256": "8f968875b20bfefa88310679f3be0677c4de876aff9405b4daa4671268379292",
+      "packed": false
+    },
+    {
+      "name": "libudev.so.1",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/libudev.so.1.6.2",
+      "sha256": "49575616bb7819b932b87cb4f30a505155ba6b5a5f6d64d4c0b4bb58b923abd4",
+      "packed": false
+    },    
+    {
+      "name": "libz.so.1",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/libz.so.1",
+      "sha256": "7576fa0125da424b10c76fb4aaf14f00dc921b7b0989e8cb00189aed720a14f4",
+      "packed": false
+    },
+    {
+      "name": "modules.alias.3.json",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/modules.alias.3.json",
+      "sha256": "f1e3f3d21e2105790187831339450f7c8bfbb608dab0dffec28268d3fbe43417",
+      "packed": false
+    },    
+    {
+      "name": "modules.alias.4.json",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/auxfiles/modules.alias.4.json",
+      "sha256": "8fb27b89d6816a6b4a250e0b36388808ebfb65dca5b9b91ce93a1e1edc44f729",
+      "packed": false
+    }
+  ],
+  
+  "scripts": {
+    "on_boot": "check-all-modules.sh"
+  }
+
+}
