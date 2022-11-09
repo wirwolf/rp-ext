@@ -11,7 +11,7 @@
     {
       "name": "check-all-modules.sh",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/all-modules/src/check-all-modules.sh",
-      "sha256": "2f0194216f208f7d6c99584687c92f43fc460b44382163c0a5969a72ef3cd174",
+      "sha256": "6f3f436a5785d353941b1501146dea1ec7203b934205d6ff02fd632a9fc2dd68",
       "packed": false
     },
     {
