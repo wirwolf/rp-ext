@@ -8,7 +8,12 @@ function listextension() {
     if [ ! -z $1 ]; then
         echo "Searching for matching extension for $1"
         /usr/sbin/modprobe ${1}
-        /usr/sbin/insmod /lib/modules/${1}.ko
+        sleep 0.5
+        if [ `/sbin/lsmod |grep -i ${1}|wc -l` -gt 0 ] ; then
+            echo "Module ${1} loaded succesfully"
+        else 
+            /usr/sbin/insmod /lib/modules/${1}.ko
+        fi
     else
         echo "No matching extension"
     fi
@@ -53,7 +58,7 @@ function listpci() {
         esac
 
 
-        echo "PCI : $bus Class : $class Vendor: $vendor Device: $device"
+        #echo "PCI : $bus Class : $class Vendor: $vendor Device: $device"
         case $class in
         0100)
             echo "Found SCSI Controller : pciid ${vendor}d0000${device}  Required Extension : $(matchpciidmodule ${vendor} ${device})"
