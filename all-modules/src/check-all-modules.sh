@@ -8,7 +8,7 @@ function listextension() {
     if [ ! -z $1 ]; then
         echo "Searching for matching extension for $1"
         /usr/sbin/modprobe ${1}
-        sleep 0.5
+        sleep 1
         if [ `/sbin/lsmod |grep -i ${1}|wc -l` -gt 0 ] ; then
             echo "Module ${1} loaded succesfully"
         else 
