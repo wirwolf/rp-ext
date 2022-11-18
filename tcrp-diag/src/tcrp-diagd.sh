@@ -31,11 +31,11 @@ function getvars(){
 
 let HEAD=1
 
-if [ -n "$(grep tcrpdiag /proc/cmdline)" ]; then
-TCRPDIAG="enabled"
-else 
-TCRPDIAG=""
-fi
+#if [ -n "$(grep tcrpdiag /proc/cmdline)" ]; then
+#TCRPDIAG="enabled"
+#else 
+#TCRPDIAG=""
+#fi
 
 ### USUALLY SCEMD is the last process run in init, so when scemd is running we are most 
 # probably certain that system has finish init process 
@@ -57,9 +57,8 @@ fi
 
 getvars
 
-
-if [ "$TCRPDIAG" = "enabled" ] ; then 
-
+echo "TCRP DIAGD START !!!!!!" 	
+#if [ "$TCRPDIAG" = "enabled" ] ; then 
        if  [ "$HASBOOTED" = "no" ] ; then
        preparediag
        sleep 120 && /usr/sbin/tcrp-diag.sh &
@@ -67,18 +66,13 @@ if [ "$TCRPDIAG" = "enabled" ] ; then
 	   sleep 120 && /usr/sbin/tcrp-diag.sh &
        startcollection
        fi
-
-elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
-
- 	  if  [ "$HASBOOTED" = "no" ] ; then
-      preparediag
-	  echo "TCRP not enabled on linux command line" 	
-       	
-      elif [ "$HASBOOTED" = "yes" ] ; then
-      sleep 120 && /usr/sbin/tcrp-diag.sh &
-      fi
-
-fi
-
+#elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
+#      if  [ "$HASBOOTED" = "no" ] ; then
+#      preparediag
+#	  echo "TCRP not enabled on linux command line" 	
+#       elif [ "$HASBOOTED" = "yes" ] ; then
+#          sleep 120 && /usr/sbin/tcrp-diag.sh &
+#        fi
+#fi
 
 exit 0
