@@ -391,7 +391,7 @@ let HEAD=1
 
 # Always enabled 2022.11.19
 #if [ -n "$(grep tcrpdiag /proc/cmdline)" ]; then
-TCRPDIAG="enabled"
+#TCRPDIAG="enabled"
 #else 
 #TCRPDIAG=""
 #fi
@@ -497,27 +497,23 @@ htmlfooter      >> ${folder}/$htmlfilename
 getvars
 
 
-if [ "$TCRPDIAG" = "enabled" ] ; then 
-
+#if [ "$TCRPDIAG" = "enabled" ] ; then 
+echo "TCRP DIAG Start Collection"
        if  [ "$HASBOOTED" = "no" ] ; then
-       	preparediag
-        startcollection
+       	  preparediag
+          startcollection
 		#sleep 120 && /sbin/tcrp-diag.sh &
        elif [ "$HASBOOTED" = "yes" ] ; then
-        startcollection
+          startcollection
        fi
-
-elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
-
- 	  if  [ "$HASBOOTED" = "no" ] ; then
-      preparediag
-	  echo "TCRP not enabled on linux command line" 	
-       	
-      elif [ "$HASBOOTED" = "yes" ] ; then
-      startcollection	   
-      fi
-
-fi
+#elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
+#      if  [ "$HASBOOTED" = "no" ] ; then
+#          preparediag
+#	  echo "TCRP not enabled on linux command line" 	
+#      elif [ "$HASBOOTED" = "yes" ] ; then
+#          startcollection	   
+#      fi
+#fi
 
 
 
