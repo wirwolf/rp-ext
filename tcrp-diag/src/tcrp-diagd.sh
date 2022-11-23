@@ -5,7 +5,6 @@
 function preparediag(){
 
 echo "Copying tcrp auxiliary files to /sbin/"
-
 /bin/cp -v lsscsi /usr/sbin/ ; chmod 700 /usr/sbin/lsscsi
 /bin/cp -v lspci  /usr/sbin/  ; chmod 700 /usr/sbin/lspci
 /bin/cp -v lsusb  /usr/sbin/  ; chmod 700 /usr/sbin/lsusb
@@ -28,53 +27,58 @@ echo "Copying tcrp libraries to /lib/"
 
 function getvars(){
 
+    let HEAD=1
 
-let HEAD=1
+    #if [ -n "$(grep tcrpdiag /proc/cmdline)" ]; then
+    #TCRPDIAG="enabled"
+    #else 
+    #TCRPDIAG=""
+    #fi
 
-#if [ -n "$(grep tcrpdiag /proc/cmdline)" ]; then
-#TCRPDIAG="enabled"
-#else 
-#TCRPDIAG=""
-#fi
+    ### USUALLY SCEMD is the last process run in init, so when scemd is running we are most 
+    # probably certain that system has finish init process 
+    #
 
-### USUALLY SCEMD is the last process run in init, so when scemd is running we are most 
-# probably certain that system has finish init process 
-#
-
-
-if [ `ps -ef |grep -i scemd |grep -v grep | wc -l` -gt 0 ] ; then 
-HASBOOTED="yes"
-echo "System has completed init process"
-else 
-echo "System is booting"
-HASBOOTED="no"
-fi
+    if [ `ps -ef |grep -i scemd |grep -v grep | wc -l` -gt 0 ] ; then 
+        HASBOOTED="yes"
+        echo "System has completed init process"
+    else 
+        echo "System is booting"
+        HASBOOTED="no"
+    fi
 
 }
 
 
 ############ START RUN ############
-
 getvars
-
 echo "TCRP DIAGD START !!!!!!" 	
-#if [ "$TCRPDIAG" = "enabled" ] ; then 
+
+wait_time=5 # maximum wait time in seconds
+time_counter=0
+while [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ] && [ $time_counter -lt $wait_time ]; do
+  sleep 1
+  echo "Still waiting for the eth0 device to get an IP (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
+done
+
 if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
+
     if  [ "$HASBOOTED" = "no" ] ; then
         preparediag       
-        sleep 50 && /usr/sbin/tcrp-diag.sh &
-    elif [ "$HASBOOTED" = "yes" ] ; then
-        sleep 50 && /usr/sbin/tcrp-diag.sh &
+    fi
+    
+    wait_time=50 # maximum wait time in seconds
+    time_counter=0
+    while [ $time_counter -lt $wait_time ]; do
+      sleep 1
+      echo "Still waiting for all devices to write logs (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
+    done
+
+    /usr/sbin/tcrp-diag.sh 
+
+    if [ "$HASBOOTED" = "yes" ] ; then
         startcollection
     fi
 fi    
-#elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
-#      if  [ "$HASBOOTED" = "no" ] ; then
-#      preparediag
-#	  echo "TCRP not enabled on linux command line" 	
-#       elif [ "$HASBOOTED" = "yes" ] ; then
-#          sleep 120 && /usr/sbin/tcrp-diag.sh &
-#        fi
-#fi
 
 exit 0
