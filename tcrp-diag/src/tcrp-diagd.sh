@@ -59,13 +59,15 @@ getvars
 
 echo "TCRP DIAGD START !!!!!!" 	
 #if [ "$TCRPDIAG" = "enabled" ] ; then 
-       if  [ "$HASBOOTED" = "no" ] ; then
-       preparediag
-       sleep 120 && /usr/sbin/tcrp-diag.sh &
-       elif [ "$HASBOOTED" = "yes" ] ; then
-	   sleep 120 && /usr/sbin/tcrp-diag.sh &
-       startcollection
-       fi
+if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
+    if  [ "$HASBOOTED" = "no" ] ; then
+        preparediag       
+        sleep 50 && /usr/sbin/tcrp-diag.sh &
+    elif [ "$HASBOOTED" = "yes" ] ; then
+        sleep 50 && /usr/sbin/tcrp-diag.sh &
+        startcollection
+    fi
+fi    
 #elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
 #      if  [ "$HASBOOTED" = "no" ] ; then
 #      preparediag
