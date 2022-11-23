@@ -61,7 +61,7 @@ echo "TCRP DIAGD START !!!!!!"
 #  echo "Still waiting for the eth0 device to get an IP (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
 #done
 
-if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
+#if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
 
     if  [ "$HASBOOTED" = "no" ] ; then
         preparediag       
@@ -76,9 +76,9 @@ if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
 
     /usr/sbin/tcrp-diag.sh 
 
-    if [ "$HASBOOTED" = "yes" ] ; then
+#    if [ "$HASBOOTED" = "yes" ] ; then
         startcollection
-    fi
-fi    
+#    fi
+#fi    
 
 exit 0
