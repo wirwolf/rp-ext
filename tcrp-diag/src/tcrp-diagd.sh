@@ -54,12 +54,12 @@ function getvars(){
 getvars
 echo "TCRP DIAGD START !!!!!!" 	
 
-wait_time=5 # maximum wait time in seconds
-time_counter=0
-while [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ] && [ $time_counter -lt $wait_time ]; do
-  sleep 1
-  echo "Still waiting for the eth0 device to get an IP (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
-done
+#wait_time=5 # maximum wait time in seconds
+#time_counter=0
+#while [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ] && [ $time_counter -lt $wait_time ]; do
+#  sleep 1
+#  echo "Still waiting for the eth0 device to get an IP (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
+#done
 
 if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
 
@@ -67,12 +67,12 @@ if [ $(ifconfig eth0 | grep inet | wc -l) -eq 0 ]; then
         preparediag       
     fi
     
-    wait_time=50 # maximum wait time in seconds
-    time_counter=0
-    while [ $time_counter -lt $wait_time ]; do
-      sleep 1
-      echo "Still waiting for all devices to write logs (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
-    done
+ #   wait_time=50 # maximum wait time in seconds
+ #   time_counter=0
+ #   while [ $time_counter -lt $wait_time ]; do
+ #     sleep 1
+ #     echo "Still waiting for all devices to write logs (waited $((time_counter=time_counter+1)) of ${wait_time} seconds)"
+ #   done
 
     /usr/sbin/tcrp-diag.sh 
 
