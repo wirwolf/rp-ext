@@ -504,8 +504,9 @@ echo "TCRP DIAG Start Collection"
        	  preparediag
           startcollection
 		#sleep 120 && /sbin/tcrp-diag.sh &
-       elif [ "$HASBOOTED" = "yes" ] ; then
-          startcollection
+#       elif [ "$HASBOOTED" = "yes" ] ; then
+# Block operation because it breaks p3
+#          startcollection
        fi
 #elif [ ! "$TCRPDIAG" = "enabled" ] ; then 
 #      if  [ "$HASBOOTED" = "no" ] ; then
