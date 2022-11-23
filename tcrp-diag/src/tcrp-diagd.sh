@@ -53,6 +53,7 @@
 ############ START RUN ############
 #getvars
 echo "TCRP DIAGD START !!!!!!" 	
+/bin/cp -v tcrp-diag.sh /usr/sbin/  ; chmod 700 /usr/sbin/tcrp-diag.sh
 /usr/sbin/tcrp-diag.sh 
 
 #wait_time=5 # maximum wait time in seconds
