@@ -5524,6 +5524,47 @@
             "name": "e1000e",
             "alias": "pci:v00008086d0000294Csv*sd*bc*sc*i*"
         },
+
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d000015F4sv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d000015F5sv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d000015F9sv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d000015FAsv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d000015FBsv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d000015FCsv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d00001A1Csv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d00001A1Dsv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d00001A1Esv*sd*bc*sc*i*"
+        },
+        {
+            "name": "e1000e",
+            "alias": "pci:v00008086d00001A1Fsv*sd*bc*sc*i*"
+        },
         {
             "name": "ehci-pci",
             "alias": "pci:v*d*sv*sd*bc0Csc03i20*"
