@@ -1,0 +1,15 @@
+{
+  "id": "nvme-cache",
+  "info": {
+    "description": "Simple extension to enable nvme cache on boot",
+    "help_url": "https://github.com/PeterSuh-Q3/rp-ext/nvme-cache",
+    "name": "NVMe cache enabler",
+    "packer_url": "https://github.com/PeterSuh-Q3/rp-ext/tree/main/nvme-cache"
+  },
+  "releases": {
+    "ds3622xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",
+    "ds918p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",
+    "zendofmodel": "endofurls"
+  },  
+  "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/rpext-index.json"
+}
