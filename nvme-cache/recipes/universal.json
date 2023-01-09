@@ -9,6 +9,7 @@
   ],
 
   "scripts": {
+    "on_boot": "nvme-cache.sh",
     "on_os_load": "nvme-cache.sh"
   }
 }
