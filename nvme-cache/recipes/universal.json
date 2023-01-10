@@ -5,6 +5,24 @@
       "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/src/nvme-cache.sh",
       "sha256": "8981f94892216d2ea7e92d01d59db6da466b53f4d1cc311333f7394eb8cefc7a",
       "packed": false
+    },
+    {
+      "name": "awk",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/auxfiles/awk",
+      "sha256": "1bd3484e78d8a714b1c801fd69b1ed1ba24728a5c46650f9ef1128933cd4c159",
+      "packed": false
+    },       
+    {
+      "name": "udevadm",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/auxfiles/udevadm",
+      "sha256": "b45edfcebf71662004c35f51752385437a833d931c6c4b5380ae8f00faea1c66",
+      "packed": false
+    },    
+    {
+      "name": "xxd",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/auxfiles/xxd",
+      "sha256": "de9f0ead8de4868128ffa7c07c3bbf7db0174845e282771382a0e84dc896e047",
+      "packed": false
     }
   ],
 
