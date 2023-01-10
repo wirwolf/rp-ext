@@ -9,7 +9,13 @@
     {
       "name": "install-nvme-cache.sh",
       "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/src/install-nvme-cache.sh",
-      "sha256": "822b510cd6599b27e8a059f1f5ad5ac6c2541540475bcdc44c7b7947362ac764",
+      "sha256": "8c2148f56bfce629bda07b2a1ce11f71eebc8e82cd38eb095c418fa45330cc15",
+      "packed": false
+    },
+    {
+      "name": "nvme-cache.service",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/src/nvme-cache.service",
+      "sha256": "448d15e6fe70d8ec9abe49ce067849c308f71cf84068512987fcda7d89f68e7e",
       "packed": false
     }
   ],
