@@ -3,7 +3,7 @@
     {
       "name": "nvme-cache.sh",
       "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/src/nvme-cache.sh",
-      "sha256": "c1bfb60407bcef10324f770489cde078fbe9f7364af2ba1acd7c17ff620fb090",
+      "sha256": "b850bd254bcc5a595534e46514f8f216f990fbfa84084f7b27e536a1f443c96f",
       "packed": false
     },
     {
@@ -22,6 +22,18 @@
       "name": "xxd",
       "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/auxfiles/xxd",
       "sha256": "de9f0ead8de4868128ffa7c07c3bbf7db0174845e282771382a0e84dc896e047",
+      "packed": false
+    },    
+    {
+      "name": "libblkid.so.1",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/auxfiles/libblkid.so.1",
+      "sha256": "8c8bba4f1ef3abe3ddb70929cbc707e8b97cfacad345a53c309e3ab9d69d333b",
+      "packed": false
+    },    
+    {
+      "name": "libreadline.so.8",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/auxfiles/libreadline.so.8",
+      "sha256": "a74c68b0a86558fb8f212c6b6be97016b7395f4159f73c77174230e77f91af82",
       "packed": false
     }
   ],
