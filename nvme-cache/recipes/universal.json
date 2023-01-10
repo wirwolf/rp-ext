@@ -3,13 +3,12 @@
     {
       "name": "nvme-cache.sh",
       "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/src/nvme-cache.sh",
-      "sha256": "6624fc7ea870417b76abd9b92d20ddf9f00ee9bb27407f83601e243790a0946b",
+      "sha256": "8981f94892216d2ea7e92d01d59db6da466b53f4d1cc311333f7394eb8cefc7a",
       "packed": false
     }
   ],
 
   "scripts": {
-    "on_boot": "nvme-cache.sh",
     "on_os_load": "nvme-cache.sh"
   }
 }
