@@ -1,7 +1,0 @@
-[Unit]
-Description=NVMe cache enabler schedule
-[Service]
-Type=oneshot
-ExecStart=/usr/sbin/nvme-cache.sh
-[Install]
-WantedBy=multi-user.target
