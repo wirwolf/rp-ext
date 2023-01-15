@@ -25,7 +25,8 @@
     "rs3618xs_42962": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/releases/broadwell.json",
     "dva3219_42962": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/releases/denverton.json",
     "dva3221_42962": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/releases/denverton.json",
-    "ds923p_42962": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/releases/r1000.json",    
+    "ds923p_42962": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/releases/r1000.json",
+    "ds723p_42962": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/releases/r1000.json",    
     "zendofmodel": "endofurls"
   },
   "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/all-modules/rpext-index.json"
