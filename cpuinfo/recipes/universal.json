@@ -1,10 +1,10 @@
 {
   "files": [
     {
-      "name": "cpuinfo.tgz",
-      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/cpuinfo/releases/cpuinfo.tgz",
-      "sha256": "ded6ca1811dba3f047b1d075aef85e048c9a037d1a348738085f37188472d2d2",
-      "packed": true
+      "name": "cpuinfo.sh",
+      "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/cpuinfo/src/cpuinfo.sh",
+      "sha256": "ab770f8fa9894d6582afb70aa656d88319742ca7096785be05e4669bb20d4f82",
+      "packed": false
     },
     {
       "name": "install.sh",
