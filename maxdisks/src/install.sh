@@ -48,14 +48,24 @@ _set_conf_kv() {
 #  echo "internalportcfg=${INTPORTCFG}"
 #elif [ "${1}" = "late" ]; then
   echo "Adjust maxdisks and internalportcfg automatically"
+  
+  echo "BEFORE SETTING"  
+  cat /etc/synoinfo.conf | grep maxdisks
+  cat /etc/synoinfo.conf | grep internalportcfg
+  
   # sysfs is unpopulated here, get the values from ramdisk synoinfo.conf
   NUMPORTS=`_get_conf_kv maxdisks /etc/synoinfo.conf`
   INTPORTCFG=`_get_conf_kv internalportcfg /etc/synoinfo.conf`
-  _set_conf_kv "maxdisks" "${NUMPORTS}" "/tmpRoot/etc/synoinfo.conf"
-  _set_conf_kv "maxdisks" "${NUMPORTS}" "/tmpRoot/etc.defaults/synoinfo.conf"
-  _set_conf_kv "internalportcfg" "${INTPORTCFG}" "/tmpRoot/etc/synoinfo.conf"
-  _set_conf_kv "internalportcfg" "${INTPORTCFG}" "/tmpRoot/etc.defaults/synoinfo.conf"
+  _set_conf_kv "maxdisks" "${NUMPORTS}" "/etc/synoinfo.conf"
+  _set_conf_kv "maxdisks" "${NUMPORTS}" "/etc.defaults/synoinfo.conf"
+  _set_conf_kv "internalportcfg" "${INTPORTCFG}" "/etc/synoinfo.conf"
+  _set_conf_kv "internalportcfg" "${INTPORTCFG}" "/etc.defaults/synoinfo.conf"
   # log
   echo "maxdisks=${NUMPORTS}"
   echo "internalportcfg=${INTPORTCFG}"
+  
+  echo "AFTER SETTING"  
+  cat /etc/synoinfo.conf | grep maxdisks
+  cat /etc/synoinfo.conf | grep internalportcfg
+  
 #fi
