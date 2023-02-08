@@ -11138,6 +11138,26 @@
 },
 {
     "name": "mlx5_core",
+    "alias": "pci:v000015B3d0000101Dsv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
+    "alias": "pci:v000015B3d0000101Esv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
+    "alias": "pci:v000015B3d0000101Fsv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
+    "alias": "pci:v000015B3d00001021sv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
+    "alias": "pci:v000015B3d00001023sv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
     "alias": "pci:v000015B3d0000A2D2sv*sd*bc*sc*i*"
 },
 {
@@ -11147,6 +11167,14 @@
 {
     "name": "mlx5_core",
     "alias": "pci:v000015B3d0000A2D6sv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
+    "alias": "pci:v000015B3d0000A2DCsv*sd*bc*sc*i*"
+},
+{
+    "name": "mlx5_core",
+    "alias": "pci:v000015B3d0000A2DFsv*sd*bc*sc*i*"
 },
 {
     "name": "mpt3sas",
