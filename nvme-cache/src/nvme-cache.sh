@@ -74,8 +74,8 @@ else
     fi
 # add supportnvme="yes" to /etc.defaults/synoinfo.conf 2023.02.10
     if [ $(cat /etc.defaults/synoinfo.conf | grep supportnvme | wc -l) -eq 0 ]; then
-        echo 'supportnvme="yes" to /etc.defaults/synoinfo.conf'
-        echo 'supportnvme=\"yes\"' >> /etc.defaults/synoinfo.conf
+        echo 'add supportnvme="yes" to /etc.defaults/synoinfo.conf'
+        echo 'supportnvme="yes"' >> /etc.defaults/synoinfo.conf
         cat /etc.defaults/synoinfo.conf | grep supportnvme
     fi
 fi
