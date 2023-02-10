@@ -14,6 +14,8 @@
     "ds918p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",
     "ds1019p_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",
     "ds1621xsp_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",
+    "dva3221_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",
+    "dva3219_42962": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/recipes/universal.json",    
     "zendofmodel": "endofurls"
   },  
   "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/nvme-cache/rpext-index.json"
