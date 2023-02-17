@@ -9,7 +9,7 @@
     {
       "name": "install-nvme-cache.sh",
       "url": "https://github.com/PeterSuh-Q3/rp-ext/raw/main/nvme-cache/src/install-nvme-cache.sh",
-      "sha256": "822b510cd6599b27e8a059f1f5ad5ac6c2541540475bcdc44c7b7947362ac764",
+      "sha256": "4025a04cca702689a07d79a3f5b4a67d8460a6c74f9f16677d1870ce4275c938",
       "packed": false
     }
   ],
