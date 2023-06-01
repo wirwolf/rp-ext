@@ -4,13 +4,13 @@
   "files": [
     {
       "name": "igb.ko",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/releases/igb.ko",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/igb.ko",
       "sha256": "d09b56011cd618ffe62b895b47f2688a4b0252d38fa9e6dc89f5e83e11d7f5ea",
       "packed": false
     },
     {
       "name": "check-igb.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/src/check-igb.sh",
+      "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/src/check-igb.sh",
       "sha256": "1c287077390c24764eeb0f1e768232cfd4e26e0cb5b01154464d7181d1c3ebf4",
       "packed": false
     }
