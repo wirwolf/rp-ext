@@ -11,7 +11,7 @@
     {
       "name": "igb.ko",
       "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/igb/releases/igb.ko",
-      "sha256": "d09b56011cd618ffe62b895b47f2688a4b0252d38fa9e6dc89f5e83e11d7f5ea",
+      "sha256": "cfbd4e6d2c7588cc03610f58080045508c2523df2f4aed948c4567a76a143bb7",
       "packed": false
     },
     {
