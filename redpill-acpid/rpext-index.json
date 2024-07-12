@@ -1,11 +1,11 @@
 {
-  "id": "redpill-acpid",
+  "id": "redpill-acpid-v3",
   "info": {
-    "author_url": "https://github.com/pocopico",
+    "author_url": "https://github.com/pocopico ",
     "description": "Adds ACPI Button Driver Support",
     "help_url": "<todo>",
     "name": "button",
-    "packer_url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid"
+    "packer_url": "https://raw.githubusercontent.com/wirwolf/rp-ext/main/redpill-acpid"
   },
   "releases": {
     "ds1019p_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/ds918p_42218.json",
