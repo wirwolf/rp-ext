@@ -1,0 +1,25 @@
+{
+  "files": [
+    {
+      "name": "install-acpid.sh",
+      "url": "https://github.com/wirwolf/rp-ext/raw/main/redpill-acpid/src/install-acpid.sh",
+      "sha256": "09fb68514f1798af0e3e1bbc51b3169bfc781538d0c6e60843b3b2fbe3a7a8c8",
+      "packed": false
+    },
+    {
+      "name": "acpid.tar.gz",
+      "url": "https://github.com/wirwolf/rp-ext/raw/main/redpill-acpid/acpid.tar.gz",
+      "sha256": "4404acffaf00d581cd2aa0b79a1b80938c09b9e030d557f1dc2039d246cbc02f",
+      "packed": false
+    },
+    {
+      "name": "button.tgz",
+      "url": "https://github.com/wirwolf/rp-ext/raw/main/redpill-acpid/button.tgz",
+      "sha256": "af1776c33ae8d2eb6f4e0bcf474745b5e52cf657aadf221face5be480d09b6ff",
+      "packed": false
+    }
+  ],
+  "scripts": {
+    "on_os_load": "install-acpid.sh"
+  }
+}
