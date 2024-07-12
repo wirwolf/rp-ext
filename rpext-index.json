@@ -3541,7 +3541,7 @@
   "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/raspbi-pill/rpext-index.json"
 }
 {
-  "id": "redpill-acpid",
+  "id": "redpill-acpid-v3",
   "info": {
     "author_url": "https://github.com/pocopico",
     "description": "Adds ACPI Button Driver Support",
