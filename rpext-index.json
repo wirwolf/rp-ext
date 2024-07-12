@@ -3601,6 +3601,9 @@
     "rs4021xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/rs4021xsp_42218.json",
     "rs4021xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/rs4021xsp_42218.json",
     "rs4021xsp_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-acpid/recipes/rs4021xsp_42218.json",
+
+    "ds3622xsp_69057": "https://raw.githubusercontent.com/wirwolf/rp-ext/main/redpill-acpid/recipes/universal.json",
+
     "zendofmodel": "endofurls"
   },
   "url": "https://raw.githubusercontent.com/PeterSuh-Q3/rp-ext/master/redpill-acpid/rpext-index.json"
